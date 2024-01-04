@@ -1,0 +1,1079 @@
+BorrowerState,OriginatingLender,OriginatingLender
+AE,Navy FCU,2
+AE,"JPMorgan Chase Bank, National Association",1
+AE,"Prestamos CDFI, LLC",1
+AK,Northrim Bank,5627
+AK,First National Bank Alaska,5349
+AK,Alaska USA FCU,2546
+AK,First Bank,1950
+AK,"Wells Fargo Bank, National Association",1667
+AK,KeyBank National Association,759
+AK,Denali State Bank,723
+AK,Mt. McKinley Bank,593
+AK,Matanuska Valley FCU,424
+AK,NuVision FCU,377
+AK,Celtic Bank Corporation,322
+AK,Cross River Bank,258
+AK,"Square Capital, LLC",203
+AK,"Prestamos CDFI, LLC",153
+AK,Customers Bank,146
+AK,Benworth Capital,140
+AK,"Kabbage, Inc.",134
+AK,Northern Skies FCU,134
+AK,Spirit of Alaska FCU,133
+AK,Fountainhead SBF LLC,128
+AL,"Prestamos CDFI, LLC",11468
+AL,Regions Bank,10948
+AL,"Capital Plus Financial, LLC",8125
+AL,Benworth Capital,6594
+AL,"Harvest Small Business Finance, LLC",5722
+AL,Fountainhead SBF LLC,5054
+AL,ServisFirst Bank,4922
+AL,"BSD Capital, LLC dba Lendistry",4171
+AL,Cross River Bank,4025
+AL,River Bank & Trust,3838
+AL,Cadence Bank,3789
+AL,Itria Ventures LLC,3755
+AL,Trustmark National Bank,3603
+AL,Synovus Bank,3443
+AL,Bank Independent,3072
+AL,First Source FCU,3046
+AL,"Kabbage, Inc.",2980
+AL,Customers Bank,2910
+AL,Progress Bank and Trust,2697
+AL,First Southern State Bank,2632
+AR,Arvest Bank,11786
+AR,Simmons Bank,4881
+AR,First Security Bank,4402
+AR,Centennial Bank,4219
+AR,"Prestamos CDFI, LLC",3921
+AR,Benworth Capital,3068
+AR,"Capital Plus Financial, LLC",2804
+AR,"Harvest Small Business Finance, LLC",2290
+AR,Cadence Bank,2165
+AR,Southern Bancorp Bank,2133
+AR,Regions Bank,2058
+AR,"BSD Capital, LLC dba Lendistry",2029
+AR,Fountainhead SBF LLC,1808
+AR,Bank OZK,1740
+AR,First National Bank,1581
+AR,First Horizon Bank,1540
+AR,Anstaff Bank,1483
+AR,First Community Bank,1416
+AR,The First National Bank of Fort Smith,1249
+AR,The Farmers & Merchants Bank,1232
+AS,Territorial Bank of American Samoa,196
+AS,"ANZ Guam, Inc",106
+AS,Development Bank of American Samoa,10
+AS,Greater Nevada CU,5
+AS,Central Pacific Bank,2
+AS,American Express National Bank,1
+AS,"Bank of America, National Association",1
+AS,Cross River Bank,1
+AS,First Bank of the Lake,1
+AS,Washington Trust Bank,1
+AZ,"JPMorgan Chase Bank, National Association",17148
+AZ,"Bank of America, National Association",11702
+AZ,"Wells Fargo Bank, National Association",10679
+AZ,"Prestamos CDFI, LLC",9508
+AZ,"Zions Bank, A Division of",8328
+AZ,Cross River Bank,7517
+AZ,"Capital Plus Financial, LLC",7230
+AZ,MidFirst Bank,5926
+AZ,"Harvest Small Business Finance, LLC",5587
+AZ,Benworth Capital,4308
+AZ,"U.S. Bank, National Association",3994
+AZ,Fountainhead SBF LLC,3805
+AZ,Celtic Bank Corporation,3687
+AZ,"Readycap Lending, LLC",3452
+AZ,First Source FCU,3447
+AZ,"Kabbage, Inc.",3005
+AZ,"BSD Capital, LLC dba Lendistry",2911
+AZ,Customers Bank,2907
+AZ,BMO Harris Bank National Association,2319
+AZ,WebBank,2121
+CA,"Bank of America, National Association",133825
+CA,"JPMorgan Chase Bank, National Association",86974
+CA,"Wells Fargo Bank, National Association",82631
+CA,Cross River Bank,74060
+CA,Customers Bank,63804
+CA,"Harvest Small Business Finance, LLC",59122
+CA,"Prestamos CDFI, LLC",48947
+CA,"U.S. Bank, National Association",47687
+CA,"Capital Plus Financial, LLC",41912
+CA,Benworth Capital,34565
+CA,Celtic Bank Corporation,30955
+CA,"BSD Capital, LLC dba Lendistry",28584
+CA,WebBank,24868
+CA,Fountainhead SBF LLC,22736
+CA,"Readycap Lending, LLC",21131
+CA,"MUFG Union Bank, National Association",20431
+CA,City National Bank,19609
+CA,"Zions Bank, A Division of",18010
+CA,Bank of the West,17831
+CA,Itria Ventures LLC,16035
+CO,FirstBank,18684
+CO,"U.S. Bank, National Association",11591
+CO,"Wells Fargo Bank, National Association",10984
+CO,"JPMorgan Chase Bank, National Association",10385
+CO,Bank of Colorado,7495
+CO,Alpine Bank,6044
+CO,"Zions Bank, A Division of",6020
+CO,Cross River Bank,5339
+CO,KeyBank National Association,3623
+CO,Bank of the West,3593
+CO,Independent Bank,3419
+CO,First National Bank of Omaha,3354
+CO,"Kabbage, Inc.",2966
+CO,ANB Bank,2690
+CO,Celtic Bank Corporation,2681
+CO,DreamSpring,2634
+CO,Glacier Bank,2624
+CO,"Prestamos CDFI, LLC",2593
+CO,"Harvest Small Business Finance, LLC",2555
+CO,Customers Bank,2520
+CT,Manufacturers and Traders Trust Company,15513
+CT,Webster Bank National Association,13618
+CT,"Bank of America, National Association",9497
+CT,"TD Bank, National Association",5972
+CT,Liberty Bank,5784
+CT,"JPMorgan Chase Bank, National Association",3798
+CT,"Citizens Bank, National Association",3472
+CT,KeyBank National Association,3370
+CT,Cross River Bank,3029
+CT,Ion Bank,2895
+CT,"Wells Fargo Bank, National Association",2351
+CT,"Kabbage, Inc.",2025
+CT,First County Bank,1971
+CT,Customers Bank,1970
+CT,Thomaston Savings Bank,1895
+CT,Fountainhead SBF LLC,1865
+CT,Fairfield County Bank,1764
+CT,Savings Bank of Danbury,1741
+CT,"Harvest Small Business Finance, LLC",1711
+CT,Union Savings Bank,1695
+DC,"Bank of America, National Association",2478
+DC,"Prestamos CDFI, LLC",1558
+DC,Cross River Bank,1396
+DC,"PNC Bank, National Association",1390
+DC,Truist Bank,1388
+DC,"Capital Plus Financial, LLC",1125
+DC,"Wells Fargo Bank, National Association",1096
+DC,Benworth Capital,977
+DC,"Harvest Small Business Finance, LLC",818
+DC,Fountainhead SBF LLC,816
+DC,United Bank,814
+DC,"TD Bank, National Association",797
+DC,"Kabbage, Inc.",778
+DC,EagleBank,740
+DC,Customers Bank,739
+DC,"BSD Capital, LLC dba Lendistry",693
+DC,Manufacturers and Traders Trust Company,669
+DC,Celtic Bank Corporation,642
+DC,"Citibank, N.A.",594
+DC,"Capital One, National Association",582
+DE,Manufacturers and Traders Trust Company,3021
+DE,"Wilmington Savings Fund Society, FSB",2267
+DE,"PNC Bank, National Association",1803
+DE,"Prestamos CDFI, LLC",1465
+DE,"TD Bank, National Association",1370
+DE,"Citizens Bank, National Association",1264
+DE,Northeast Bank,1064
+DE,Cross River Bank,1016
+DE,"Capital Plus Financial, LLC",956
+DE,"Harvest Small Business Finance, LLC",954
+DE,"Fulton Bank, National Association",852
+DE,Benworth Capital,850
+DE,Fountainhead SBF LLC,745
+DE,"Wells Fargo Bank, National Association",691
+DE,"BSD Capital, LLC dba Lendistry",633
+DE,"Readycap Lending, LLC",609
+DE,"Bank of America, National Association",597
+DE,Customers Bank,509
+DE,County Bank,498
+DE,Tidemark FCU,434
+FL,"Citibank, N.A.",1
+FL,"Bank of America, National Association",76401
+FL,Cross River Bank,73236
+FL,"Harvest Small Business Finance, LLC",60270
+FL,Benworth Capital,44067
+FL,"Capital Plus Financial, LLC",39211
+FL,Fountainhead SBF LLC,38715
+FL,"Wells Fargo Bank, National Association",37544
+FL,"Kabbage, Inc.",36874
+FL,"Prestamos CDFI, LLC",35030
+FL,"JPMorgan Chase Bank, National Association",34711
+FL,Truist Bank,30286
+FL,Regions Bank,26946
+FL,Customers Bank,25552
+FL,Celtic Bank Corporation,22107
+FL,Itria Ventures LLC,21585
+FL,"BSD Capital, LLC dba Lendistry",21059
+FL,"TD Bank, National Association",14822
+FL,WebBank,13958
+FL,City National Bank of Florida,12382
+GA,"Prestamos CDFI, LLC",52035
+GA,"Capital Plus Financial, LLC",45706
+GA,"Harvest Small Business Finance, LLC",39242
+GA,Benworth Capital,33568
+GA,Cross River Bank,29539
+GA,Fountainhead SBF LLC,29426
+GA,"BSD Capital, LLC dba Lendistry",21805
+GA,"Bank of America, National Association",19750
+GA,Itria Ventures LLC,18259
+GA,"Kabbage, Inc.",16336
+GA,Truist Bank,15632
+GA,"Wells Fargo Bank, National Association",14645
+GA,Customers Bank,13851
+GA,Synovus Bank,12014
+GA,Celtic Bank Corporation,8419
+GA,United Community Bank,8225
+GA,Ameris Bank,8086
+GA,Regions Bank,6627
+GA,"Readycap Lending, LLC",6358
+GA,"JPMorgan Chase Bank, National Association",5713
+GU,Bank of Guam,1032
+GU,First Hawaiian Bank,861
+GU,Community First Guam FCU,653
+GU,Coast360 FCU,516
+GU,Bank of Hawaii,310
+GU,"ANZ Guam, Inc",155
+GU,Northeast Bank,17
+GU,"Kabbage, Inc.",8
+GU,Cross River Bank,4
+GU,Navy FCU,4
+GU,"Capital Plus Financial, LLC",3
+GU,Customers Bank,3
+GU,First Command Bank,3
+GU,Benworth Capital,2
+GU,City National Bank,2
+GU,First State Bank,2
+GU,West Town Bank & Trust,2
+GU,"immito, LLC",2
+GU,American Express National Bank,1
+GU,"BSD Capital, LLC dba Lendistry",1
+HI,Central Pacific Bank,11450
+HI,First Hawaiian Bank,8466
+HI,Bank of Hawaii,7280
+HI,"American Savings Bank, FSB",6302
+HI,Hawaii National Bank,1270
+HI,Celtic Bank Corporation,728
+HI,"Kabbage, Inc.",638
+HI,Cross River Bank,615
+HI,HawaiiUSA FCU,537
+HI,"Square Capital, LLC",508
+HI,Benworth Capital,497
+HI,Commonwealth Business Bank,492
+HI,Customers Bank,427
+HI,"Prestamos CDFI, LLC",393
+HI,"Harvest Small Business Finance, LLC",379
+HI,WebBank,376
+HI,"Capital Plus Financial, LLC",313
+HI,Fountainhead SBF LLC,275
+HI,Itria Ventures LLC,224
+HI,"Readycap Lending, LLC",223
+IA,United Bank of Iowa,4334
+IA,Iowa State Bank,3873
+IA,Fidelity Bank & Trust,3690
+IA,Farmers State Bank,3456
+IA,MidWestOne Bank,3440
+IA,"Farm Credit Services of America, ACA",3370
+IA,Bank Iowa,3282
+IA,"U.S. Bank, National Association",2992
+IA,Northwest Bank,2978
+IA,American State Bank,2626
+IA,Hills Bank and Trust Company,2497
+IA,First State Bank,2386
+IA,Availa Bank,2116
+IA,Lincoln Savings Bank,1952
+IA,First Interstate Bank,1893
+IA,Peoples Bank,1843
+IA,Central Bank,1748
+IA,Citizens State Bank,1730
+IA,First Citizens Bank,1612
+IA,Dupaco Community CU,1520
+ID,Idaho Central CU,6315
+ID,D. L. Evans Bank,4630
+ID,"Zions Bank, A Division of",3862
+ID,Glacier Bank,3722
+ID,"U.S. Bank, National Association",3033
+ID,The Bank of Commerce,2125
+ID,Washington Trust Bank,1970
+ID,First Interstate Bank,1957
+ID,Montana Community Development Corp.,1599
+ID,Bank of Idaho,1551
+ID,"Wells Fargo Bank, National Association",1376
+ID,Idaho First Bank,1370
+ID,KeyBank National Association,1249
+ID,First Federal Savings Bank of Twin Falls,1051
+ID,Banner Bank,742
+ID,"JPMorgan Chase Bank, National Association",674
+ID,Potlatch No. 1 Financial Credit Union,674
+ID,Capital Educators FCU,669
+ID,Cross River Bank,665
+ID,Farmers Bank,655
+IL,"Capital Plus Financial, LLC",47925
+IL,Cross River Bank,44188
+IL,"Harvest Small Business Finance, LLC",42617
+IL,"JPMorgan Chase Bank, National Association",35214
+IL,"Prestamos CDFI, LLC",28670
+IL,Itria Ventures LLC,19918
+IL,Benworth Capital,19664
+IL,"BSD Capital, LLC dba Lendistry",17063
+IL,BMO Harris Bank National Association,15869
+IL,Fifth Third Bank,14858
+IL,Fountainhead SBF LLC,13405
+IL,"U.S. Bank, National Association",12467
+IL,"Bank of America, National Association",11664
+IL,"Kabbage, Inc.",10294
+IL,Old National Bank,9684
+IL,Customers Bank,8862
+IL,Celtic Bank Corporation,8282
+IL,"PNC Bank, National Association",7049
+IL,WebBank,6193
+IL,Busey Bank,5472
+IN,"Prestamos CDFI, LLC",8330
+IN,"Capital Plus Financial, LLC",8086
+IN,Old National Bank,8053
+IN,"JPMorgan Chase Bank, National Association",7922
+IN,"Harvest Small Business Finance, LLC",7270
+IN,1st Source Bank,5815
+IN,Benworth Capital,5752
+IN,First Merchants Bank,5598
+IN,Cross River Bank,5504
+IN,"PNC Bank, National Association",4920
+IN,First Financial Bank,4681
+IN,German American Bank,4494
+IN,Fifth Third Bank,4280
+IN,Centier Bank,3646
+IN,"BSD Capital, LLC dba Lendistry",3611
+IN,The Huntington National Bank,3551
+IN,Lake City Bank,3501
+IN,First Farmers Bank & Trust Co.,3174
+IN,Fountainhead SBF LLC,3076
+IN,BMO Harris Bank National Association,2986
+KS,"INTRUST Bank, National Association",3315
+KS,Equity Bank,3309
+KS,Commerce Bank,2993
+KS,The Citizens State Bank,2696
+KS,"GNBank, National Association",2046
+KS,Peoples Bank and Trust Company,1974
+KS,Landmark National Bank,1945
+KS,Community National Bank & Trust,1914
+KS,"Bank of America, National Association",1887
+KS,United Bank & Trust,1864
+KS,"U.S. Bank, National Association",1774
+KS,Farmers Bank & Trust,1716
+KS,The Western State Bank,1677
+KS,"UMB Bank, National Association",1585
+KS,The Central Trust Bank,1571
+KS,Central National Bank,1414
+KS,The Bennington State Bank,1247
+KS,Capitol Federal Savings Bank,1207
+KS,Emprise Bank,1191
+KS,"Harvest Small Business Finance, LLC",1155
+KY,Stock Yards Bank & Trust Company,5466
+KY,"Community Trust Bank, Inc.",5311
+KY,"PNC Bank, National Association",3791
+KY,Republic Bank & Trust Company,3693
+KY,Central Bank & Trust Co.,3661
+KY,"South Central Bank, Inc.",3542
+KY,"U.S. Bank, National Association",3342
+KY,Independence Bank of Kentucky,2994
+KY,Fifth Third Bank,2973
+KY,Peoples Bank,2761
+KY,"Harvest Small Business Finance, LLC",2401
+KY,"Whitaker Bank, Inc",2325
+KY,"JPMorgan Chase Bank, National Association",2306
+KY,German American Bank,2224
+KY,The Cecilian Bank,2173
+KY,"Traditional Bank, Inc.",2147
+KY,"Prestamos CDFI, LLC",2100
+KY,Benworth Capital,2029
+KY,"WesBanco Bank, Inc.",1782
+KY,Truist Bank,1749
+LA,"Prestamos CDFI, LLC",21251
+LA,"Capital Plus Financial, LLC",16110
+LA,Hancock Whitney Bank,12866
+LA,"Harvest Small Business Finance, LLC",9341
+LA,First Horizon Bank,8774
+LA,Benworth Capital,8569
+LA,"JPMorgan Chase Bank, National Association",7365
+LA,"BSD Capital, LLC dba Lendistry",5833
+LA,Cross River Bank,5765
+LA,Regions Bank,5032
+LA,Fountainhead SBF LLC,5026
+LA,"Home Bank, National Association",4553
+LA,b1BANK,4237
+LA,Itria Ventures LLC,3921
+LA,"Capital One, National Association",3618
+LA,Fidelity Bank,3489
+LA,Customers Bank,3439
+LA,Gulf Coast Bank and Trust Company,3433
+LA,BankPlus,3323
+LA,"Kabbage, Inc.",3310
+MA,"Citizens Bank, National Association",22087
+MA,"Bank of America, National Association",18624
+MA,Eastern Bank,16122
+MA,Rockland Trust Company,10203
+MA,"TD Bank, National Association",9401
+MA,"Santander Bank, National Association",6373
+MA,"Harvest Small Business Finance, LLC",5169
+MA,Cross River Bank,4865
+MA,Manufacturers and Traders Trust Company,3780
+MA,Customers Bank,3765
+MA,Cape Cod Five Cents Savings Bank,3653
+MA,Benworth Capital,3437
+MA,Fountainhead SBF LLC,3092
+MA,"Leader Bank, National Association",3032
+MA,Enterprise Bank and Trust Company,3022
+MA,"Capital Plus Financial, LLC",2982
+MA,"Kabbage, Inc.",2958
+MA,Avidia Bank,2719
+MA,"Prestamos CDFI, LLC",2628
+MA,Middlesex Savings Bank,2570
+MD,"Bank of America, National Association",16039
+MD,Manufacturers and Traders Trust Company,15769
+MD,Cross River Bank,9158
+MD,"Prestamos CDFI, LLC",8927
+MD,"PNC Bank, National Association",8806
+MD,Truist Bank,8533
+MD,"Harvest Small Business Finance, LLC",7058
+MD,Sandy Spring Bank,6478
+MD,Benworth Capital,6248
+MD,"Capital Plus Financial, LLC",6164
+MD,"Kabbage, Inc.",5042
+MD,First National Bank of Pennsylvania,4859
+MD,Customers Bank,4697
+MD,Fountainhead SBF LLC,4515
+MD,"Wells Fargo Bank, National Association",4467
+MD,"BSD Capital, LLC dba Lendistry",3881
+MD,Celtic Bank Corporation,3347
+MD,"Capital One, National Association",3345
+MD,WebBank,3242
+MD,Itria Ventures LLC,3015
+ME,Bangor Savings Bank,6939
+ME,Camden National Bank,4475
+ME,Machias Savings Bank,3579
+ME,First National Bank,2936
+ME,"TD Bank, National Association",2673
+ME,Norway Savings Bank,2009
+ME,Bar Harbor Bank & Trust,1791
+ME,KeyBank National Association,1720
+ME,Kennebunk Savings Bank,1619
+ME,Gorham Savings Bank,1543
+ME,"Biddeford Savings, A Division of",1012
+ME,Bath Savings Institution,986
+ME,Katahdin Trust Co.,913
+ME,Kennebec Savings Bank,900
+ME,Androscoggin Savings Bank,803
+ME,Manufacturers and Traders Trust Company,793
+ME,Franklin Savings Bank,764
+ME,"Bank of America, National Association",745
+ME,Evergreen CU,710
+ME,Saco & Biddeford Savings Institution,687
+MI,The Huntington National Bank,29752
+MI,"Prestamos CDFI, LLC",17980
+MI,"JPMorgan Chase Bank, National Association",16710
+MI,"Capital Plus Financial, LLC",12980
+MI,"Harvest Small Business Finance, LLC",12260
+MI,Fifth Third Bank,10333
+MI,Comerica Bank,9672
+MI,"PNC Bank, National Association",9355
+MI,Benworth Capital,9266
+MI,Cross River Bank,8464
+MI,"Bank of America, National Association",7943
+MI,"Citizens Bank, National Association",7468
+MI,Fountainhead SBF LLC,7347
+MI,First Merchants Bank,4738
+MI,"Greenstone Farm Credit Services, ACA",4369
+MI,"BSD Capital, LLC dba Lendistry",4035
+MI,Customers Bank,3772
+MI,"Kabbage, Inc.",3630
+MI,Independent Bank,3628
+MI,Mercantile Bank,3342
+MN,"U.S. Bank, National Association",11833
+MN,"Bremer Bank, National Association",8443
+MN,"Wells Fargo Bank, National Association",6936
+MN,Minnwest Bank,4338
+MN,Old National Bank,4259
+MN,"Harvest Small Business Finance, LLC",4171
+MN,Frandsen Bank & Trust,3677
+MN,Magnifi Financial CU,3671
+MN,Cross River Bank,3641
+MN,"Capital Plus Financial, LLC",3383
+MN,"Compeer Financial, ACA",3298
+MN,"Prestamos CDFI, LLC",3090
+MN,Bell Bank,2853
+MN,Benworth Capital,2685
+MN,"Merchants Bank, National Association",2641
+MN,The Huntington National Bank,2611
+MN,"Sunrise Banks, National Association",2420
+MN,"Associated Bank, National Association",1849
+MN,Fountainhead SBF LLC,1849
+MN,"BSD Capital, LLC dba Lendistry",1835
+MO,The Central Trust Bank,14188
+MO,"U.S. Bank, National Association",7913
+MO,Commerce Bank,7190
+MO,"Bank of America, National Association",5171
+MO,"Harvest Small Business Finance, LLC",5134
+MO,"Prestamos CDFI, LLC",4952
+MO,"Capital Plus Financial, LLC",4412
+MO,First State Community Bank,3896
+MO,The Bank of Missouri,3844
+MO,Arvest Bank,3552
+MO,Benworth Capital,2999
+MO,Simmons Bank,2989
+MO,"UMB Bank, National Association",2971
+MO,Wood & Huston Bank,2953
+MO,Carrollton Bank,2912
+MO,Enterprise Bank & Trust,2903
+MO,Southern Bank,2892
+MO,Fountainhead SBF LLC,2819
+MO,Cross River Bank,2649
+MO,OakStar Bank,2595
+MP,First Hawaiian Bank,543
+MP,Bank of Guam,209
+MP,Bank of Hawaii,162
+MP,"Capital Plus Financial, LLC",3
+MP,Cross River Bank,2
+MS,Community Bank of Mississippi,9683
+MS,"Prestamos CDFI, LLC",9409
+MS,"Capital Plus Financial, LLC",7312
+MS,Benworth Capital,7174
+MS,Cadence Bank,7065
+MS,Trustmark National Bank,6698
+MS,BankPlus,6098
+MS,"Harvest Small Business Finance, LLC",5831
+MS,Fountainhead SBF LLC,5282
+MS,"BSD Capital, LLC dba Lendistry",4260
+MS,Regions Bank,4102
+MS,Itria Ventures LLC,3765
+MS,Renasant Bank,3231
+MS,Planters Bank & Trust Company,2397
+MS,Hancock Whitney Bank,2364
+MS,Farmers and Merchants Bank,2307
+MS,Guaranty Bank & Trust Company,2035
+MS,Cross River Bank,1936
+MS,BankFirst Financial Services,1897
+MS,The Citizens National Bank of Meridian,1799
+MT,Glacier Bank,10084
+MT,Stockman Bank of Montana,7084
+MT,First Interstate Bank,5541
+MT,Opportunity Bank of Montana,2104
+MT,The Yellowstone Bank,1598
+MT,Montana Community Development Corp.,1243
+MT,Independence Bank,1109
+MT,"U.S. Bank, National Association",1008
+MT,Clearwater FCU,892
+MT,"Bank of Bridger, National Association",883
+MT,TrailWest Bank,842
+MT,Little Horn State Bank,725
+MT,"Wells Fargo Bank, National Association",690
+MT,Farmers State Bank,635
+MT,"First Montana Bank, Inc.",617
+MT,Bravera Bank,584
+MT,Valley Bank of Ronan,545
+MT,Bank of the Rockies,455
+MT,Grasslands FCU,396
+MT,Madison Valley Bank,382
+NC,Truist Bank,22159
+NC,First-Citizens Bank & Trust Company,15146
+NC,"Bank of America, National Association",12848
+NC,"Prestamos CDFI, LLC",12409
+NC,Customers Bank,12265
+NC,"Wells Fargo Bank, National Association",12216
+NC,Cross River Bank,11259
+NC,"Capital Plus Financial, LLC",7970
+NC,First Horizon Bank,7323
+NC,First National Bank of Pennsylvania,7180
+NC,"Harvest Small Business Finance, LLC",7006
+NC,The Fidelity Bank,6621
+NC,Pinnacle Bank,6305
+NC,Benworth Capital,5965
+NC,First Bank,5598
+NC,"PNC Bank, National Association",5472
+NC,Celtic Bank Corporation,4894
+NC,United Community Bank,4833
+NC,"BSD Capital, LLC dba Lendistry",4237
+NC,Fountainhead SBF LLC,4159
+ND,First International Bank & Trust,2782
+ND,"Bremer Bank, National Association",2365
+ND,Gate City Bank,2204
+ND,Choice Financial Group,2023
+ND,Bank Forward,1989
+ND,Bravera Bank,1989
+ND,Bell Bank,1930
+ND,"Dakota Community Bank & Trust, National Association",1773
+ND,"AgCountry Farm Credit Service, PCA",1430
+ND,First Community CU,1149
+ND,Farm Credit Services of Mandan,1127
+ND,First United Bank,1079
+ND,Starion Bank,1072
+ND,Cornerstone Bank,1064
+ND,"Farm Credit Services of North Dakota, ACA",1003
+ND,First Western Bank & Trust,977
+ND,Town and Country CU,876
+ND,Dacotah Bank,871
+ND,BankNorth,821
+ND,"Alerus Financial, National Association",779
+NE,Pinnacle Bank,7594
+NE,First National Bank of Omaha,6282
+NE,Union Bank and Trust Company,4432
+NE,Cornerstone Bank,3305
+NE,First State Bank,2233
+NE,Midwest Bank,2164
+NE,Security First Bank,2098
+NE,First Interstate Bank,2065
+NE,"Farm Credit Services of America, ACA",1932
+NE,Five Points Bank,1873
+NE,Heartland Bank,1829
+NE,"U.S. Bank, National Association",1726
+NE,Elkhorn Valley Bank & Trust,1629
+NE,American National Bank,1568
+NE,Platte Valley Bank,1562
+NE,First State Bank Nebraska,1402
+NE,BankFirst,1274
+NE,Citizens State Bank,1232
+NE,Sandhills State Bank,1217
+NE,Equitable Bank,1207
+NH,"TD Bank, National Association",5186
+NH,"Citizens Bank, National Association",5043
+NH,Manufacturers and Traders Trust Company,1940
+NH,"Bank of America, National Association",1582
+NH,Bank of New Hampshire,1347
+NH,St. Mary's Bank,1232
+NH,Primary Bank,1201
+NH,Mascoma Bank,1124
+NH,Eastern Bank,1122
+NH,Enterprise Bank and Trust Company,1095
+NH,Northway Bank,1057
+NH,Merrimack County Savings Bank,996
+NH,Meredith Village Savings Bank,926
+NH,Bar Harbor Bank & Trust,906
+NH,Bangor Savings Bank,880
+NH,Savings Bank of Walpole,649
+NH,Service FCU,549
+NH,Triangle CU,532
+NH,Kennebunk Savings Bank,523
+NH,Cross River Bank,502
+NJ,"TD Bank, National Association",35994
+NJ,"Bank of America, National Association",22777
+NJ,"JPMorgan Chase Bank, National Association",17402
+NJ,Cross River Bank,15905
+NJ,"PNC Bank, National Association",15365
+NJ,"Wells Fargo Bank, National Association",10739
+NJ,Valley National Bank,9467
+NJ,"Kabbage, Inc.",9153
+NJ,Customers Bank,9020
+NJ,"Harvest Small Business Finance, LLC",7373
+NJ,Fountainhead SBF LLC,7245
+NJ,Benworth Capital,6817
+NJ,"Prestamos CDFI, LLC",6518
+NJ,"Capital Plus Financial, LLC",5692
+NJ,"Santander Bank, National Association",5086
+NJ,Celtic Bank Corporation,4926
+NJ,WebBank,4815
+NJ,"Fulton Bank, National Association",4783
+NJ,Northeast Bank,4614
+NJ,Columbia Bank,4233
+NM,DreamSpring,2180
+NM,"Wells Fargo Bank, National Association",2033
+NM,"U.S. Bank, National Association",1738
+NM,First American Bank,1685
+NM,"Bank of America, National Association",1585
+NM,Enterprise Bank & Trust,1335
+NM,Citizens Bank of Las Cruces,1206
+NM,New Mexico Bank & Trust,1206
+NM,Nusenda FCU,1122
+NM,"BOKF, National Association",1002
+NM,Western Commerce Bank,999
+NM,Cross River Bank,946
+NM,Washington Federal Bank,939
+NM,Century Bank,882
+NM,Bank of the West,829
+NM,Pioneer Bank,741
+NM,The Citizens Bank,683
+NM,"Prestamos CDFI, LLC",635
+NM,First Source FCU,587
+NM,Celtic Bank Corporation,560
+NV,"Prestamos CDFI, LLC",9130
+NV,"Harvest Small Business Finance, LLC",8902
+NV,"Capital Plus Financial, LLC",8491
+NV,"Bank of America, National Association",8238
+NV,"Zions Bank, A Division of",7728
+NV,Cross River Bank,6765
+NV,"Wells Fargo Bank, National Association",6563
+NV,"U.S. Bank, National Association",6243
+NV,Benworth Capital,4763
+NV,Customers Bank,4270
+NV,"JPMorgan Chase Bank, National Association",3945
+NV,Fountainhead SBF LLC,3781
+NV,Greater Nevada CU,3361
+NV,"BSD Capital, LLC dba Lendistry",3356
+NV,Western Alliance Bank,2616
+NV,Itria Ventures LLC,2551
+NV,Celtic Bank Corporation,1980
+NV,"Readycap Lending, LLC",1569
+NV,WebBank,1393
+NV,Glacier Bank,1377
+NY,"JPMorgan Chase Bank, National Association",100792
+NY,Cross River Bank,54969
+NY,"TD Bank, National Association",34253
+NY,Manufacturers and Traders Trust Company,31755
+NY,"Bank of America, National Association",30685
+NY,"Harvest Small Business Finance, LLC",29077
+NY,Customers Bank,25104
+NY,"Citibank, N.A.",22574
+NY,"Kabbage, Inc.",21788
+NY,Benworth Capital,18839
+NY,KeyBank National Association,18572
+NY,"Prestamos CDFI, LLC",16666
+NY,Celtic Bank Corporation,15948
+NY,"Capital Plus Financial, LLC",14807
+NY,Fountainhead SBF LLC,14059
+NY,"BSD Capital, LLC dba Lendistry",13834
+NY,Itria Ventures LLC,12960
+NY,WebBank,11619
+NY,New York Business Development Corporation,9366
+NY,Dime Community Bank,9153
+OH,The Huntington National Bank,32790
+OH,"Prestamos CDFI, LLC",19256
+OH,Fifth Third Bank,16726
+OH,"PNC Bank, National Association",16588
+OH,"Capital Plus Financial, LLC",15933
+OH,"Harvest Small Business Finance, LLC",15727
+OH,Benworth Capital,13264
+OH,"JPMorgan Chase Bank, National Association",12375
+OH,KeyBank National Association,11682
+OH,"U.S. Bank, National Association",11484
+OH,Cross River Bank,9708
+OH,Fountainhead SBF LLC,7944
+OH,"BSD Capital, LLC dba Lendistry",7867
+OH,"Citizens Bank, National Association",7120
+OH,The Park National Bank,6240
+OH,First Financial Bank,5169
+OH,Itria Ventures LLC,4521
+OH,Peoples Bank,4449
+OH,Premier Bank,4412
+OH,"Kabbage, Inc.",4236
+OK,BancFirst,14637
+OK,Arvest Bank,10699
+OK,MidFirst Bank,4677
+OK,Armstrong Bank,4646
+OK,First United Bank and Trust Company,4533
+OK,Great Plains National Bank,4214
+OK,"BOKF, National Association",3676
+OK,RCB Bank,3111
+OK,FirstBank,2228
+OK,Mabrey Bank,1953
+OK,"Prestamos CDFI, LLC",1810
+OK,Legacy Bank,1808
+OK,"Harvest Small Business Finance, LLC",1774
+OK,First Security Bank and Trust Company,1617
+OK,First Fidelity Bank,1578
+OK,InterBank,1520
+OK,"Bank of America, National Association",1471
+OK,Simmons Bank,1411
+OK,Cross River Bank,1367
+OK,"JPMorgan Chase Bank, National Association",1325
+OR,"U.S. Bank, National Association",13369
+OR,Umpqua Bank,10077
+OR,KeyBank National Association,5662
+OR,"JPMorgan Chase Bank, National Association",4898
+OR,"Bank of America, National Association",4881
+OR,"Wells Fargo Bank, National Association",4477
+OR,Columbia State Bank,4434
+OR,OnPoint Community CU,4194
+OR,First Interstate Bank,4135
+OR,Cross River Bank,3381
+OR,Celtic Bank Corporation,2762
+OR,Banner Bank,2722
+OR,"Readycap Lending, LLC",2408
+OR,Washington Federal Bank,1905
+OR,Bank of Eastern Oregon,1818
+OR,People's Bank of Commerce,1771
+OR,"Kabbage, Inc.",1750
+OR,"Square Capital, LLC",1637
+OR,WebBank,1570
+OR,Customers Bank,1519
+PA,"PNC Bank, National Association",22435
+PA,"Citizens Bank, National Association",20132
+PA,First National Bank of Pennsylvania,16182
+PA,"Prestamos CDFI, LLC",13675
+PA,"TD Bank, National Association",12467
+PA,"Harvest Small Business Finance, LLC",8989
+PA,"Capital Plus Financial, LLC",8469
+PA,Manufacturers and Traders Trust Company,8263
+PA,"Fulton Bank, National Association",7780
+PA,Benworth Capital,7641
+PA,Fountainhead SBF LLC,7639
+PA,"Wells Fargo Bank, National Association",7515
+PA,Cross River Bank,7193
+PA,Customers Bank,6697
+PA,Mid Penn Bank,6661
+PA,"BSD Capital, LLC dba Lendistry",6467
+PA,KeyBank National Association,5957
+PA,First Commonwealth Bank,5824
+PA,Truist Bank,5475
+PA,Orrstown Bank,4908
+PR,Banco Popular de Puerto Rico,46350
+PR,FirstBank Puerto Rico,12127
+PR,Oriental Bank,8801
+PR,"Cooperativa de Ahorro y Cr<ac,e>dito Dr. Manuel Zeno Gand<ac,i>a",829
+PR,"Cooperativa de Ahorro y Cr<ac,e>dito de Arecibo (COOPACA)",643
+PR,"Cooperativa de Ahorro y Cr<ac,e>dito Jes\da\us Obrero",194
+PR,Banesco USA,149
+PR,"Cooperativa de Ahorro y Cr<ac,e>dito de Camuy (CAMUY-COOP)",142
+PR,"Cooperativa de Ahorro y Cr<ac,e>dito Oriental",127
+PR,"Cooperativa de Ahorro y Cr<ac,e>dito Maunabo (MAUNA-COOP)",68
+PR,"Cooperativa de Ahorro y Cr<ac,e>dito Vega Alta (VEGA-COOP)",60
+PR,Latino Economic Development Corp.,58
+PR,First Equity Mortgage Bankers Inc.,53
+PR,"Bank of America, National Association",34
+PR,Cross River Bank,33
+PR,Live Oak Banking Company,33
+PR,Itria Ventures LLC,31
+PR,Puerto Rico Farm Credit,31
+PR,Caribe FCU,29
+PR,"Pathstone Enterprise Center, Inc.",29
+RI,"Citizens Bank, National Association",7645
+RI,The Washington Trust Company of Westerly,2610
+RI,BankNewport,2561
+RI,"Bank of America, National Association",2430
+RI,Bank Rhode Island,2275
+RI,Navigant CU,1801
+RI,Webster Bank National Association,1069
+RI,"Santander Bank, National Association",1061
+RI,HarborOne Bank,912
+RI,Fountainhead SBF LLC,804
+RI,Centreville Bank,784
+RI,"TD Bank, National Association",684
+RI,Coastal1 Credit Union,669
+RI,"Harvest Small Business Finance, LLC",631
+RI,Customers Bank,600
+RI,Cross River Bank,519
+RI,Benworth Capital,503
+RI,Bristol County Savings Bank,477
+RI,"Capital Plus Financial, LLC",450
+RI,"Prestamos CDFI, LLC",442
+SC,"Prestamos CDFI, LLC",11832
+SC,"SouthState Bank, National Association",8611
+SC,First-Citizens Bank & Trust Company,7539
+SC,"Capital Plus Financial, LLC",7157
+SC,"Bank of America, National Association",6387
+SC,Benworth Capital,5874
+SC,"Harvest Small Business Finance, LLC",5591
+SC,Truist Bank,5410
+SC,Fountainhead SBF LLC,4974
+SC,"Wells Fargo Bank, National Association",4871
+SC,Cross River Bank,4138
+SC,"BSD Capital, LLC dba Lendistry",3622
+SC,Customers Bank,3323
+SC,Synovus Bank,3295
+SC,"Kabbage, Inc.",3089
+SC,"TD Bank, National Association",3052
+SC,United Community Bank,2931
+SC,Anderson Brothers Bank,2927
+SC,Itria Ventures LLC,2601
+SC,Pinnacle Bank,2467
+SD,First Interstate Bank,4833
+SD,Dacotah Bank,4367
+SD,First Dakota National Bank,3951
+SD,First Bank & Trust,2804
+SD,American Bank & Trust,2741
+SD,"BankWest, Inc",2393
+SD,"Farm Credit Services of America, ACA",2346
+SD,First PREMIER Bank,2266
+SD,CorTrust Bank National Association,2010
+SD,First National Bank,1872
+SD,First Fidelity Bank,1758
+SD,The First National Bank in Sioux Falls,1725
+SD,Plains Commerce Bank,1659
+SD,Black Hills FCU,1415
+SD,Pioneer Bank & Trust,1391
+SD,Great Plains Bank,1178
+SD,Reliabank Dakota,1086
+SD,First National Bank in Philip,823
+SD,"U.S. Bank, National Association",785
+SD,First Savings Bank,756
+TN,First Horizon Bank,14187
+TN,Pinnacle Bank,13529
+TN,Regions Bank,11998
+TN,"Prestamos CDFI, LLC",10717
+TN,"Capital Plus Financial, LLC",8617
+TN,Benworth Capital,6820
+TN,Fountainhead SBF LLC,6494
+TN,"Harvest Small Business Finance, LLC",6048
+TN,Itria Ventures LLC,5867
+TN,Cross River Bank,5818
+TN,"U.S. Bank, National Association",4425
+TN,"BSD Capital, LLC dba Lendistry",4391
+TN,Truist Bank,4340
+TN,"Bank of America, National Association",4327
+TN,"Kabbage, Inc.",4003
+TN,One Bank of Tennessee,3483
+TN,Customers Bank,3361
+TN,SmartBank,3326
+TN,FirstBank,3258
+TN,Celtic Bank Corporation,2712
+TX,"JPMorgan Chase Bank, National Association",47880
+TX,"Prestamos CDFI, LLC",45894
+TX,Fountainhead SBF LLC,41690
+TX,Cross River Bank,41340
+TX,"Bank of America, National Association",37857
+TX,"Capital Plus Financial, LLC",37720
+TX,Frost Bank,32194
+TX,"Wells Fargo Bank, National Association",24696
+TX,Benworth Capital,23851
+TX,"Harvest Small Business Finance, LLC",20434
+TX,"Kabbage, Inc.",17814
+TX,Prosperity Bank,17427
+TX,Customers Bank,17220
+TX,"BSD Capital, LLC dba Lendistry",16619
+TX,First Source FCU,16084
+TX,Itria Ventures LLC,15370
+TX,Celtic Bank Corporation,14410
+TX,"Zions Bank, A Division of",13649
+TX,Allegiance Bank,9947
+TX,"Readycap Lending, LLC",9577
+UT,"Zions Bank, A Division of",16693
+UT,Cache Valley Bank,10092
+UT,Mountain America FCU,8295
+UT,America First FCU,4220
+UT,"JPMorgan Chase Bank, National Association",3568
+UT,"Wells Fargo Bank, National Association",2807
+UT,Cross River Bank,2433
+UT,State Bank of Southern Utah,2257
+UT,"U.S. Bank, National Association",2172
+UT,KeyBank National Association,1976
+UT,Bank of Utah,1825
+UT,Goldenwest FCU,1621
+UT,"Readycap Lending, LLC",1492
+UT,Glacier Bank,1404
+UT,Celtic Bank Corporation,1259
+UT,Central Bank,1098
+UT,Utah First FCU,929
+UT,First Utah Bank,911
+UT,"Kabbage, Inc.",867
+UT,Fountainhead SBF LLC,808
+VA,Truist Bank,15459
+VA,Atlantic Union Bank,15289
+VA,"Bank of America, National Association",12641
+VA,"Wells Fargo Bank, National Association",9628
+VA,Towne Bank,7659
+VA,Cross River Bank,6986
+VA,"Prestamos CDFI, LLC",6775
+VA,Fountainhead SBF LLC,5951
+VA,United Bank,5469
+VA,The First Bank and Trust Company,5235
+VA,Benworth Capital,5035
+VA,"Harvest Small Business Finance, LLC",4951
+VA,"Capital Plus Financial, LLC",4563
+VA,Customers Bank,4507
+VA,"Kabbage, Inc.",4113
+VA,Primis Bank,3508
+VA,"PNC Bank, National Association",3341
+VA,"BSD Capital, LLC dba Lendistry",3299
+VA,Celtic Bank Corporation,3277
+VA,WebBank,3125
+VI,Banco Popular de Puerto Rico,1015
+VI,FirstBank Puerto Rico,892
+VI,Merchants Commercial Bank,500
+VI,"United Fidelity Bank, FSB",446
+VI,Oriental Bank,207
+VI,The Economic Development Bank for the United States Virgin Islands,57
+VI,"Bank of America, National Association",25
+VI,Cross River Bank,25
+VI,Fountainhead SBF LLC,24
+VI,Benworth Capital,23
+VI,Greater Nevada CU,23
+VI,"Harvest Small Business Finance, LLC",14
+VI,"Kabbage, Inc.",14
+VI,"Prestamos CDFI, LLC",10
+VI,Itria Ventures LLC,8
+VI,"BSD Capital, LLC dba Lendistry",7
+VI,Celtic Bank Corporation,7
+VI,1st Source Bank,6
+VI,"Capital Plus Financial, LLC",5
+VI,Live Oak Banking Company,4
+WA,"Bank of America, National Association",16158
+WA,"U.S. Bank, National Association",12079
+WA,KeyBank National Association,9017
+WA,"JPMorgan Chase Bank, National Association",8915
+WA,Banner Bank,7568
+WA,Cross River Bank,7173
+WA,Umpqua Bank,6768
+WA,Washington Trust Bank,6286
+WA,Heritage Bank,5902
+WA,"Wells Fargo Bank, National Association",5599
+WA,Coastal Community Bank,5221
+WA,Boeing Empl CU,4888
+WA,Columbia State Bank,4060
+WA,Fountainhead SBF LLC,3608
+WA,"Kabbage, Inc.",3592
+WA,Washington Federal Bank,3283
+WA,Celtic Bank Corporation,3274
+WA,Peoples Bank,2922
+WA,Customers Bank,2737
+WA,Itria Ventures LLC,2694
+WI,"Associated Bank, National Association",9582
+WI,BMO Harris Bank National Association,9328
+WI,Nicolet National Bank,7024
+WI,"U.S. Bank, National Association",6903
+WI,Cross River Bank,3986
+WI,"Prestamos CDFI, LLC",3888
+WI,"Bank First, N.A.",3832
+WI,"Capital Plus Financial, LLC",3603
+WI,"JPMorgan Chase Bank, National Association",3590
+WI,"Compeer Financial, ACA",3372
+WI,Fountainhead SBF LLC,2874
+WI,Johnson Bank,2796
+WI,Benworth Capital,2738
+WI,Waukesha State Bank,2732
+WI,"Harvest Small Business Finance, LLC",2566
+WI,Summit CU,2527
+WI,"Kabbage, Inc.",2370
+WI,Peoples State Bank,2353
+WI,"BSD Capital, LLC dba Lendistry",2210
+WI,Citizens Community Federal National Association,1974
+WV,United Bank,3196
+WV,Peoples Bank,2568
+WV,"WesBanco Bank, Inc.",2454
+WV,City National Bank of West Virginia,1563
+WV,Truist Bank,1482
+WV,The Huntington National Bank,1395
+WV,"Clear Mountain Bank, Inc.",987
+WV,"Summit Community Bank, Inc.",771
+WV,"Pendleton Community Bank, Inc.",768
+WV,First Community Bank,680
+WV,First United Bank & Trust,608
+WV,"Citizens Bank of West Virginia, Inc",604
+WV,The Grant County Bank,580
+WV,"JPMorgan Chase Bank, National Association",545
+WV,"CNB Bank, Inc.",542
+WV,Main Street Bank Corp.,454
+WV,Fountainhead SBF LLC,432
+WV,The Harrison County Bank,412
+WV,Logan Bank & Trust Company,405
+WV,Cross River Bank,403
+WY,First Interstate Bank,3325
+WY,Glacier Bank,2095
+WY,Pinnacle Bank-Wyoming,1984
+WY,Hilltop National Bank,1024
+WY,Jonah Bank of Wyoming,930
+WY,Bank of Jackson Hole,883
+WY,First Northern Bank of Wyoming,854
+WY,Platte Valley Bank,813
+WY,Security State Bank,804
+WY,The Converse County Bank,688
+WY,First National Bank of Gillette,643
+WY,ANB Bank,620
+WY,"Wells Fargo Bank, National Association",574
+WY,Central Bank & Trust,499
+WY,Wyoming Community Bank,429
+WY,"U.S. Bank, National Association",425
+WY,First Western Trust Bank,384
+WY,First Federal Bank & Trust,371
+WY,First National Bank of Omaha,337
+WY,"Bank of Bridger, National Association",333

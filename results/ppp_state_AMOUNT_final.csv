@@ -1,0 +1,1102 @@
+,BorrowerState,OriginatingLender,CurrentApprovalAmount
+0,AE,Navy FCU,40525
+1,AE,"Prestamos CDFI, LLC",20000
+2,AE,"JPMorgan Chase Bank, National Association",3462
+3,AK,Northrim Bank,589906298
+4,AK,First National Bank Alaska,566358275
+5,AK,KeyBank National Association,162103340
+6,AK,Alaska USA FCU,118345958
+7,AK,First Bank,100304334
+8,AK,"Wells Fargo Bank, National Association",96089853
+9,AK,Mt. McKinley Bank,57735775
+10,AK,Denali State Bank,56264408
+11,AK,"Bank of America, National Association",31022027
+12,AK,NuVision FCU,20485715
+13,AK,First Source FCU,18542140
+14,AK,Matanuska Valley FCU,17669634
+15,AK,Truist Bank,13309354
+16,AK,CoBank ACB,8677861
+17,AK,Umpqua Bank,8551156
+18,AK,East West Bank,8382400
+19,AK,"National Cooperative Bank, National Association",8005580
+20,AK,Idaho First Bank,7802493
+21,AK,Cross River Bank,7618682
+22,AK,First Sound Bank,6428900
+23,AK,Celtic Bank Corporation,6114646
+24,AK,Peoples State Bank,1092
+25,AL,ServisFirst Bank,974161563
+26,AL,Regions Bank,940539687
+27,AL,Synovus Bank,490062607
+28,AL,First Source FCU,357650352
+29,AL,Cadence Bank,291365502
+30,AL,Trustmark National Bank,258284303
+31,AL,First Horizon Bank,257826733
+32,AL,Hancock Whitney Bank,246080063
+33,AL,River Bank & Trust,240813930
+34,AL,Progress Bank and Trust,212719250
+35,AL,Renasant Bank,200687339
+36,AL,Bryant Bank,198319677
+37,AL,"Prestamos CDFI, LLC",178953376
+38,AL,Bank Independent,149102501
+39,AL,Truist Bank,147462884
+40,AL,Peoples Bank of Alabama,130991578
+41,AL,Itria Ventures LLC,128316484
+42,AL,"Capital Plus Financial, LLC",127050413
+43,AL,"SouthState Bank, National Association",122450461
+44,AR,Arvest Bank,688027302
+45,AR,Simmons Bank,403497815
+46,AR,Centennial Bank,324300979
+47,AR,First Security Bank,314078983
+48,AR,Regions Bank,173626706
+49,AR,Southern Bancorp Bank,138228724
+50,AR,First Horizon Bank,135255437
+51,AR,Cadence Bank,133803974
+52,AR,The First National Bank of Fort Smith,126313573
+53,AR,Bank OZK,123996871
+54,AR,First National Bank,92750113
+55,AR,First Community Bank,82221858
+56,AR,Arkansas Capital Corporation,69900805
+57,AR,The Citizens Bank,68578470
+58,AR,First Financial Bank,65386500
+59,AR,Relyance Bank National Association,61325500
+60,AR,"Bank of America, National Association",56879755
+61,AR,"Prestamos CDFI, LLC",56469442
+62,AR,Farmers Bank & Trust Company,53980714
+63,AR,Legacy National Bank,52304865
+64,AS,"ANZ Guam, Inc",5901093
+65,AS,Territorial Bank of American Samoa,5157042
+66,AS,"Bank of America, National Association",725055
+67,AS,Central Pacific Bank,424500
+68,AS,Development Bank of American Samoa,190404
+69,AS,Greater Nevada CU,137380
+70,AS,Washington Trust Bank,41600
+71,AS,First Bank of the Lake,20832
+72,AS,Cross River Bank,15179
+73,AS,American Express National Bank,15000
+74,AZ,"JPMorgan Chase Bank, National Association",1648384636
+75,AZ,"Zions Bank, A Division of",951633970
+76,AZ,"Bank of America, National Association",674479598
+77,AZ,MidFirst Bank,593185303
+78,AZ,"Wells Fargo Bank, National Association",552588716
+79,AZ,Western Alliance Bank,483473527
+80,AZ,First Source FCU,467254477
+81,AZ,"BOKF, National Association",380925161
+82,AZ,BMO Harris Bank National Association,276186436
+83,AZ,"Readycap Lending, LLC",253625853
+84,AZ,Cross River Bank,236807849
+85,AZ,"UMB Bank, National Association",199202018
+86,AZ,"U.S. Bank, National Association",184239169
+87,AZ,Glacier Bank,182692174
+88,AZ,Arizona Bank & Trust,178373731
+89,AZ,First Fidelity Bank,158503776
+90,AZ,"Prestamos CDFI, LLC",153212698
+91,AZ,Western State Bank,152224423
+92,AZ,"Harvest Small Business Finance, LLC",133486514
+93,AZ,South Ottumwa Savings Bank,3036
+94,CA,"Bank of America, National Association",9517223273
+95,CA,"JPMorgan Chase Bank, National Association",6981201370
+96,CA,"Wells Fargo Bank, National Association",5063251155
+97,CA,City National Bank,4572211430
+98,CA,"U.S. Bank, National Association",2950570507
+99,CA,Bank of the West,2889999398
+100,CA,"MUFG Union Bank, National Association",2880900688
+101,CA,"Zions Bank, A Division of",2573763948
+102,CA,Cross River Bank,2287078987
+103,CA,East West Bank,2004498715
+104,CA,"Harvest Small Business Finance, LLC",2000356400
+105,CA,First Republic Bank,1875073624
+106,CA,Customers Bank,1728721833
+107,CA,Citizens Business Bank,1706961813
+108,CA,Mechanics Bank,1544468359
+109,CA,Silicon Valley Bank,1471471554
+110,CA,Comerica Bank,1453794725
+111,CA,Pacific Western Bank,1420742370
+112,CA,"Readycap Lending, LLC",1285093292
+113,CA,"Citibank, N.A.",1271725242
+114,CA,Umpqua Bank,1059213403
+115,CO,FirstBank,1391522686
+116,CO,"JPMorgan Chase Bank, National Association",897137523
+117,CO,"Zions Bank, A Division of",686804402
+118,CO,"BOKF, National Association",670524196
+119,CO,"U.S. Bank, National Association",637322400
+120,CO,Bank of Colorado,632939523
+121,CO,KeyBank National Association,474736310
+122,CO,Alpine Bank,458603052
+123,CO,"Wells Fargo Bank, National Association",449714441
+124,CO,"UMB Bank, National Association",444682118
+125,CO,Independent Bank,417586626
+126,CO,First National Bank of Omaha,331724028
+127,CO,First Source FCU,307623019
+128,CO,Glacier Bank,300858134
+129,CO,Bank of the West,295525864
+130,CO,ANB Bank,279709859
+131,CO,"Citywide Banks, A Division of HTLF Bank",242039119
+132,CO,"Community Banks of Colorado, A Division of",217013919
+133,CO,First Interstate Bank,194783250
+134,CO,Timberline Bank,178881972
+135,CO,Farmers & Stockmens Bank,177692169
+136,CT,Manufacturers and Traders Trust Company,1533614847
+137,CT,Webster Bank National Association,1285163806
+138,CT,"Bank of America, National Association",832768649
+139,CT,"TD Bank, National Association",520747648
+140,CT,Liberty Bank,429660030
+141,CT,KeyBank National Association,401622984
+142,CT,"Citizens Bank, National Association",397892577
+143,CT,"JPMorgan Chase Bank, National Association",381868699
+144,CT,Ion Bank,268145332
+145,CT,Fairfield County Bank,220804962
+146,CT,Thomaston Savings Bank,195735901
+147,CT,Union Savings Bank,194471428
+148,CT,First County Bank,183323589
+149,CT,Newtown Savings Bank,145360980
+150,CT,Savings Bank of Danbury,131819075
+151,CT,Berkshire Bank,116210160
+152,CT,Chelsea Groton Bank,108016527
+153,CT,"Wells Fargo Bank, National Association",102421467
+154,CT,Windsor Federal Savings & Loan Association,93740205
+155,CT,"Connecticut Community Bank, National Association",93694268
+156,DC,Truist Bank,368575342
+157,DC,"Bank of America, National Association",301465513
+158,DC,"PNC Bank, National Association",236262645
+159,DC,EagleBank,221917973
+160,DC,United Bank,172679100
+161,DC,Manufacturers and Traders Trust Company,125434544
+162,DC,"TD Bank, National Association",105072885
+163,DC,Sandy Spring Bank,104636688
+164,DC,"Wells Fargo Bank, National Association",92267963
+165,DC,"Capital Bank, National Association",89244824
+166,DC,"Citibank, N.A.",85624396
+167,DC,"JPMorgan Chase Bank, National Association",65833612
+168,DC,Forbright Bank,64648137
+169,DC,"Capital One, National Association",62732795
+170,DC,Atlantic Union Bank,58161505
+171,DC,The National Capital Bank of Washington,56568947
+172,DC,"City First Bank, National Association",46872306
+173,DC,Cross River Bank,44191928
+174,DC,City National Bank,37916934
+175,DC,FVCbank,32313430
+176,DE,"Wilmington Savings Fund Society, FSB",413621970
+177,DE,Manufacturers and Traders Trust Company,394866363
+178,DE,"PNC Bank, National Association",207343079
+179,DE,Northeast Bank,146017081
+180,DE,"TD Bank, National Association",124994830
+181,DE,"Fulton Bank, National Association",93520874
+182,DE,"Citizens Bank, National Association",90871025
+183,DE,"Bank of America, National Association",59227618
+184,DE,County Bank,42779481
+185,DE,"Readycap Lending, LLC",41529782
+186,DE,Cross River Bank,32994337
+187,DE,Mid Penn Bank,31447323
+188,DE,"Wells Fargo Bank, National Association",29377422
+189,DE,"Shore United Bank, National Association",26888665
+190,DE,"Prestamos CDFI, LLC",21548222
+191,DE,"JPMorgan Chase Bank, National Association",21303846
+192,DE,Community Bank Delaware,21089973
+193,DE,"Provident State Bank, Inc.",19086069
+194,DE,Applied Bank,18568867
+195,DE,"Harvest Small Business Finance, LLC",16330462
+196,FL,"Citibank, N.A.",42100
+197,FL,"Bank of America, National Association",3938048561
+198,FL,Truist Bank,3338103235
+199,FL,"JPMorgan Chase Bank, National Association",2252015783
+200,FL,City National Bank of Florida,2108383535
+201,FL,Regions Bank,1897883639
+202,FL,Cross River Bank,1853775176
+203,FL,"SouthState Bank, National Association",1385479384
+204,FL,"Wells Fargo Bank, National Association",1308026868
+205,FL,First Horizon Bank,1205019735
+206,FL,Seacoast National Bank,1150973942
+207,FL,"PNC Bank, National Association",1123922028
+208,FL,Synovus Bank,1096673786
+209,FL,"TD Bank, National Association",1034363877
+210,FL,Valley National Bank,1033022664
+211,FL,"Harvest Small Business Finance, LLC",831779922
+212,FL,Centennial Bank,791414229
+213,FL,"BankUnited, National Association",714294240
+214,FL,"Kabbage, Inc.",707373240
+215,FL,Celtic Bank Corporation,658127952
+216,GA,Truist Bank,2264455622
+217,GA,Synovus Bank,1546457144
+218,GA,"Bank of America, National Association",1071319722
+219,GA,United Community Bank,860309999
+220,GA,"Prestamos CDFI, LLC",835528723
+221,GA,Ameris Bank,760812210
+222,GA,Cross River Bank,740297149
+223,GA,"SouthState Bank, National Association",738063709
+224,GA,"Capital Plus Financial, LLC",735861408
+225,GA,"Harvest Small Business Finance, LLC",696482762
+226,GA,Regions Bank,623293745
+227,GA,"Wells Fargo Bank, National Association",541055591
+228,GA,Itria Ventures LLC,520215541
+229,GA,Renasant Bank,518192449
+230,GA,Benworth Capital,492952415
+231,GA,"JPMorgan Chase Bank, National Association",456152472
+232,GA,Fountainhead SBF LLC,453686782
+233,GA,"BSD Capital, LLC dba Lendistry",411663616
+234,GA,First Horizon Bank,409164162
+235,GA,"Kabbage, Inc.",346649061
+236,GU,Bank of Guam,109418101
+237,GU,First Hawaiian Bank,95546386
+238,GU,Community First Guam FCU,30332088
+239,GU,Bank of Hawaii,27152528
+240,GU,Coast360 FCU,18347676
+241,GU,"ANZ Guam, Inc",13423737
+242,GU,Northeast Bank,1820290
+243,GU,City National Bank,593700
+244,GU,"Kabbage, Inc.",219244
+245,GU,"immito, LLC",158555
+246,GU,West Town Bank & Trust,63505
+247,GU,First Command Bank,50157
+248,GU,"Capital Plus Financial, LLC",40659
+249,GU,Customers Bank,34615
+250,GU,Navy FCU,28547
+251,GU,"BSD Capital, LLC dba Lendistry",18750
+252,GU,American Express National Bank,17800
+253,GU,MBE Capital Partners,17700
+254,GU,Benworth Capital,16187
+255,GU,Cross River Bank,13178
+256,HI,First Hawaiian Bank,1232874248
+257,HI,Central Pacific Bank,812727798
+258,HI,Bank of Hawaii,740443315
+259,HI,"American Savings Bank, FSB",525089451
+260,HI,Hawaii National Bank,143407144
+261,HI,HawaiiUSA FCU,19117007
+262,HI,Commonwealth Business Bank,16514848
+263,HI,"JPMorgan Chase Bank, National Association",16117372
+264,HI,Cross River Bank,13876818
+265,HI,Live Oak Banking Company,13018165
+266,HI,The Commercial Bank,11125625
+267,HI,"Wells Fargo Bank, National Association",10311969
+268,HI,"Kabbage, Inc.",9073003
+269,HI,"Bank of America, National Association",8547864
+270,HI,"NexTier Bank, National Association",8447404
+271,HI,Celtic Bank Corporation,8139793
+272,HI,Customers Bank,7787442
+273,HI,Itria Ventures LLC,7773915
+274,HI,"Harvest Small Business Finance, LLC",7585460
+275,HI,KeyBank National Association,7145628
+276,IA,Bankers Trust Company,305046776
+277,IA,MidWestOne Bank,277800420
+278,IA,First Interstate Bank,220228710
+279,IA,Farmers State Bank,218859546
+280,IA,"U.S. Bank, National Association",218671439
+281,IA,West Bank,202442587
+282,IA,Northwest Bank,200575746
+283,IA,Cedar Rapids Bank and Trust Company,183567053
+284,IA,Hills Bank and Trust Company,182463133
+285,IA,Central Bank,163558507
+286,IA,Farmers & Merchants Savings Bank,155196217
+287,IA,Iowa State Bank,152292273
+288,IA,Bank Iowa,131110460
+289,IA,Quad City Bank and Trust Company,130974943
+290,IA,Lincoln Savings Bank,116796363
+291,IA,American State Bank,113448024
+292,IA,Fidelity Bank & Trust,111048833
+293,IA,Two Rivers Bank & Trust,99096324
+294,IA,Availa Bank,98411573
+295,IA,United Bank of Iowa,95218706
+296,ID,D. L. Evans Bank,349659500
+297,ID,"Zions Bank, A Division of",334386286
+298,ID,Glacier Bank,273183125
+299,ID,Washington Trust Bank,256704082
+300,ID,Idaho Central CU,228145130
+301,ID,Idaho First Bank,189623829
+302,ID,"U.S. Bank, National Association",180787481
+303,ID,KeyBank National Association,174666275
+304,ID,First Interstate Bank,163108540
+305,ID,The Bank of Commerce,125475840
+306,ID,Bank of Idaho,118571693
+307,ID,First Federal Savings Bank of Twin Falls,81131166
+308,ID,Banner Bank,79322280
+309,ID,Columbia State Bank,57614043
+310,ID,Umpqua Bank,56523537
+311,ID,"Wells Fargo Bank, National Association",56039842
+312,ID,Farmers Bank,44655931
+313,ID,"JPMorgan Chase Bank, National Association",40443711
+314,ID,Montana Community Development Corp.,38471160
+315,ID,Northwest Bank,35202406
+316,IL,"JPMorgan Chase Bank, National Association",3020349529
+317,IL,BMO Harris Bank National Association,1875929061
+318,IL,Fifth Third Bank,1840774344
+319,IL,Old National Bank,1397589582
+320,IL,"Wintrust Bank, National Association",1222616381
+321,IL,CIBC Bank USA,1010112440
+322,IL,"Bank of America, National Association",952181462
+323,IL,Cross River Bank,922104443
+324,IL,"PNC Bank, National Association",894278821
+325,IL,"Capital Plus Financial, LLC",886611922
+326,IL,"Harvest Small Business Finance, LLC",816250471
+327,IL,Byline Bank,745083544
+328,IL,Busey Bank,726535600
+329,IL,"U.S. Bank, National Association",576731125
+330,IL,The Huntington National Bank,570839022
+331,IL,Old Second National Bank,512241992
+332,IL,"Prestamos CDFI, LLC",501740386
+333,IL,Itria Ventures LLC,425329352
+334,IL,"Wheaton Bank & Trust Company, National Association",397027695
+335,IL,First American Bank,379708020
+336,IN,Old National Bank,911061122
+337,IN,"JPMorgan Chase Bank, National Association",865315605
+338,IN,First Merchants Bank,811085109
+339,IN,Lake City Bank,709867192
+340,IN,1st Source Bank,614342603
+341,IN,"PNC Bank, National Association",596581552
+342,IN,The Huntington National Bank,469875396
+343,IN,First Financial Bank,463496933
+344,IN,Fifth Third Bank,423449173
+345,IN,German American Bank,416184313
+346,IN,Centier Bank,405024281
+347,IN,The National Bank of Indianapolis,387108830
+348,IN,STAR Financial Bank,350822200
+349,IN,BMO Harris Bank National Association,337470997
+350,IN,KeyBank National Association,307608457
+351,IN,Horizon Bank,274147170
+352,IN,Regions Bank,174908653
+353,IN,Stock Yards Bank & Trust Company,173336361
+354,IN,"First Financial Bank, National Association",172760867
+355,IN,First Farmers Bank & Trust Co.,168102809
+356,KS,"INTRUST Bank, National Association",513577567
+357,KS,Commerce Bank,470361027
+358,KS,"UMB Bank, National Association",302923510
+359,KS,Equity Bank,223675760
+360,KS,CrossFirst Bank,209830090
+361,KS,The Central Trust Bank,164445854
+362,KS,Landmark National Bank,137256726
+363,KS,Emprise Bank,134684060
+364,KS,Country Club Bank,133802994
+365,KS,Enterprise Bank & Trust,122163111
+366,KS,"Fidelity Bank, National Association",111176100
+367,KS,"U.S. Bank, National Association",105938443
+368,KS,Community National Bank & Trust,104854507
+369,KS,Bank of Blue Valley,100172368
+370,KS,Peoples Bank and Trust Company,96136375
+371,KS,Security Bank of Kansas City,93217711
+372,KS,Central National Bank,87732670
+373,KS,The Bennington State Bank,85687426
+374,KS,"Bank of America, National Association",83381235
+375,KS,CoreFirst Bank & Trust,80478656
+376,KY,Stock Yards Bank & Trust Company,751631334
+377,KY,"PNC Bank, National Association",518489471
+378,KY,Republic Bank & Trust Company,480713223
+379,KY,Central Bank & Trust Co.,431045519
+380,KY,"Community Trust Bank, Inc.",330082135
+381,KY,"JPMorgan Chase Bank, National Association",295930140
+382,KY,Fifth Third Bank,276271051
+383,KY,Truist Bank,251267341
+384,KY,Independence Bank of Kentucky,212957065
+385,KY,"Traditional Bank, Inc.",208102250
+386,KY,"U.S. Bank, National Association",186685025
+387,KY,"WesBanco Bank, Inc.",162837453
+388,KY,German American Bank,150209462
+389,KY,The Huntington National Bank,149413723
+390,KY,"South Central Bank, Inc.",147421601
+391,KY,Peoples Bank,124045468
+392,KY,Old National Bank,113862242
+393,KY,"Heritage Bank, Inc.",111682252
+394,KY,First Financial Bank,99702395
+395,KY,The Cecilian Bank,84483550
+396,LA,Hancock Whitney Bank,1926757771
+397,LA,First Horizon Bank,896814228
+398,LA,"JPMorgan Chase Bank, National Association",854577244
+399,LA,b1BANK,514132950
+400,LA,Regions Bank,420422661
+401,LA,"Home Bank, National Association",360389030
+402,LA,"Prestamos CDFI, LLC",351922853
+403,LA,Gulf Coast Bank and Trust Company,311412419
+404,LA,Origin Bank,279023436
+405,LA,"Capital Plus Financial, LLC",266856277
+406,LA,Red River Bank,256029854
+407,LA,Cadence Bank,247425702
+408,LA,Fidelity Bank,247194848
+409,LA,BankPlus,226856808
+410,LA,"Capital One, National Association",189734544
+411,LA,Gulf Coast Bank,170004815
+412,LA,"Harvest Small Business Finance, LLC",142108082
+413,LA,Cross River Bank,133151039
+414,LA,First Guaranty Bank,128489710
+415,LA,"Investar Bank, National Association",126498054
+416,MA,"Citizens Bank, National Association",2040818844
+417,MA,Eastern Bank,1786564472
+418,MA,"Bank of America, National Association",1724613184
+419,MA,Rockland Trust Company,1269289360
+420,MA,"TD Bank, National Association",1074360382
+421,MA,Manufacturers and Traders Trust Company,749737402
+422,MA,"Santander Bank, National Association",545056857
+423,MA,Enterprise Bank and Trust Company,539541194
+424,MA,Silicon Valley Bank,471265389
+425,MA,Cambridge Savings Bank,351601806
+426,MA,Middlesex Savings Bank,327533702
+427,MA,Salem Five Cents Savings Bank,316021840
+428,MA,Cape Cod Five Cents Savings Bank,314622312
+429,MA,Berkshire Bank,306953686
+430,MA,Brookline Bank,302784588
+431,MA,Avidia Bank,273491635
+432,MA,Webster Bank National Association,266754876
+433,MA,Westfield Bank,258156511
+434,MA,Cambridge Trust Company,248860443
+435,MA,Needham Bank,215294099
+436,MD,Manufacturers and Traders Trust Company,2114286262
+437,MD,Truist Bank,1438032283
+438,MD,Sandy Spring Bank,1187458391
+439,MD,"PNC Bank, National Association",1041688668
+440,MD,"Bank of America, National Association",1024891266
+441,MD,First National Bank of Pennsylvania,706203643
+442,MD,"Fulton Bank, National Association",360037042
+443,MD,"WesBanco Bank, Inc.",283278942
+444,MD,Cross River Bank,276518407
+445,MD,EagleBank,245597250
+446,MD,United Bank,245062328
+447,MD,"Shore United Bank, National Association",231391664
+448,MD,"Wells Fargo Bank, National Association",207200496
+449,MD,"Capital One, National Association",201871382
+450,MD,Orrstown Bank,180412343
+451,MD,Community Bank of the Chesapeake,162879547
+452,MD,"Capital Bank, National Association",155597182
+453,MD,Atlantic Union Bank,143035507
+454,MD,First United Bank & Trust,142391050
+455,MD,"Prestamos CDFI, LLC",131882697
+456,ME,Bangor Savings Bank,492636870
+457,ME,Camden National Bank,306420720
+458,ME,"TD Bank, National Association",275926108
+459,ME,Machias Savings Bank,236903436
+460,ME,KeyBank National Association,196701506
+461,ME,Norway Savings Bank,152581256
+462,ME,First National Bank,148063879
+463,ME,Gorham Savings Bank,141049488
+464,ME,Manufacturers and Traders Trust Company,134674562
+465,ME,"Biddeford Savings, A Division of",107763050
+466,ME,Kennebunk Savings Bank,106969172
+467,ME,Androscoggin Savings Bank,98154561
+468,ME,Katahdin Trust Co.,95187079
+469,ME,Bar Harbor Bank & Trust,91901293
+470,ME,Kennebec Savings Bank,68362050
+471,ME,Bath Savings Institution,66417289
+472,ME,"Bank of America, National Association",52961435
+473,ME,Saco & Biddeford Savings Institution,46398822
+474,ME,Franklin Savings Bank,29480764
+475,ME,Skowhegan Savings Bank,28659769
+476,MI,The Huntington National Bank,3968236940
+477,MI,"JPMorgan Chase Bank, National Association",1919092436
+478,MI,Comerica Bank,1911673181
+479,MI,"PNC Bank, National Association",1520267060
+480,MI,Fifth Third Bank,1254735297
+481,MI,Mercantile Bank,749853374
+482,MI,First Merchants Bank,727080924
+483,MI,"Bank of America, National Association",706322355
+484,MI,Bank of Ann Arbor,478856282
+485,MI,Macatawa Bank,468748392
+486,MI,"Citizens Bank, National Association",451445983
+487,MI,Independent Bank,397664171
+488,MI,Oxford Bank,327509932
+489,MI,"Prestamos CDFI, LLC",282862038
+490,MI,Old National Bank,259369456
+491,MI,ChoiceOne Bank,253097707
+492,MI,"Harvest Small Business Finance, LLC",219618772
+493,MI,Cross River Bank,218705866
+494,MI,"Flagstar Bank, FSB",217003648
+495,MI,"Capital Plus Financial, LLC",206388402
+496,MN,"Bremer Bank, National Association",1462574265
+497,MN,"U.S. Bank, National Association",869364810
+498,MN,Old National Bank,741035907
+499,MN,BMO Harris Bank National Association,559243084
+500,MN,Choice Financial Group,426160400
+501,MN,Bell Bank,421119906
+502,MN,"Sunrise Banks, National Association",304974700
+503,MN,"Wells Fargo Bank, National Association",292891645
+504,MN,Frandsen Bank & Trust,257223943
+505,MN,"Associated Bank, National Association",250264312
+506,MN,Bridgewater Bank,246664785
+507,MN,"Merchants Bank, National Association",240893127
+508,MN,"Alerus Financial, National Association",221472129
+509,MN,Tradition Capital Bank,208724982
+510,MN,Minnwest Bank,207905897
+511,MN,The Huntington National Bank,174323068
+512,MN,Fidelity Bank,170041440
+513,MN,Northeast Bank,165950885
+514,MN,Minnesota Bank & Trust,162999058
+515,MN,Park State Bank,162859296
+516,MO,Commerce Bank,1024912033
+517,MO,The Central Trust Bank,1014948617
+518,MO,Enterprise Bank & Trust,626992506
+519,MO,"UMB Bank, National Association",621003493
+520,MO,"U.S. Bank, National Association",376854207
+521,MO,Carrollton Bank,340457855
+522,MO,"Bank of America, National Association",292151815
+523,MO,Busey Bank,264599376
+524,MO,"PNC Bank, National Association",260005462
+525,MO,Midwest BankCentre,252852934
+526,MO,Arvest Bank,214290158
+527,MO,Simmons Bank,212578964
+528,MO,The Bank of Missouri,199912909
+529,MO,First State Community Bank,187066413
+530,MO,Southern Bank,185274465
+531,MO,Regions Bank,178332242
+532,MO,First Bank,158103632
+533,MO,Country Club Bank,155458159
+534,MO,BMO Harris Bank National Association,146796492
+535,MO,Cass Commercial Bank,136983472
+536,MP,First Hawaiian Bank,36131137
+537,MP,Bank of Guam,15853134
+538,MP,Bank of Hawaii,11524812
+539,MP,"Capital Plus Financial, LLC",189099
+540,MP,Cross River Bank,99322
+541,MS,Trustmark National Bank,556169788
+542,MS,Community Bank of Mississippi,422273142
+543,MS,Cadence Bank,377669147
+544,MS,BankPlus,334954496
+545,MS,Regions Bank,252619643
+546,MS,Renasant Bank,236180525
+547,MS,Hancock Whitney Bank,214425548
+548,MS,"Prestamos CDFI, LLC",150092537
+549,MS,The Citizens National Bank of Meridian,124829569
+550,MS,"Capital Plus Financial, LLC",117107996
+551,MS,Itria Ventures LLC,114537667
+552,MS,Guaranty Bank & Trust Company,109930039
+553,MS,Planters Bank & Trust Company,106200996
+554,MS,BankFirst Financial Services,100418544
+555,MS,Benworth Capital,97833427
+556,MS,"Harvest Small Business Finance, LLC",97419206
+557,MS,The First Bank,97268012
+558,MS,Fountainhead SBF LLC,76186421
+559,MS,"BSD Capital, LLC dba Lendistry",75058795
+560,MS,Peoples Bank,69077378
+561,MT,Glacier Bank,603744366
+562,MT,First Interstate Bank,478814417
+563,MT,Stockman Bank of Montana,424189088
+564,MT,The Yellowstone Bank,110766344
+565,MT,Opportunity Bank of Montana,88138421
+566,MT,"U.S. Bank, National Association",69010666
+567,MT,TrailWest Bank,52304637
+568,MT,Independence Bank,42434352
+569,MT,"First Montana Bank, Inc.",40396460
+570,MT,American Bank,33525037
+571,MT,Three Rivers Bank of Montana,33305758
+572,MT,"Bank of Bridger, National Association",27742849
+573,MT,Montana Community Development Corp.,27621769
+574,MT,Farmers State Bank,27282400
+575,MT,Rocky Mountain Bank,27143946
+576,MT,Clearwater FCU,19876119
+577,MT,Bravera Bank,19686572
+578,MT,"Wells Fargo Bank, National Association",17854356
+579,MT,Freedom Bank,16487203
+580,MT,Bank of Montana,16262391
+581,NC,Truist Bank,2883002291
+582,NC,First-Citizens Bank & Trust Company,1755677578
+583,NC,Pinnacle Bank,825571478
+584,NC,"PNC Bank, National Association",812820361
+585,NC,"Bank of America, National Association",763357781
+586,NC,First National Bank of Pennsylvania,674952335
+587,NC,First Horizon Bank,652465036
+588,NC,"Wells Fargo Bank, National Association",502663167
+589,NC,The Fidelity Bank,481569192
+590,NC,First Bank,463437532
+591,NC,United Community Bank,434149832
+592,NC,Towne Bank,345101445
+593,NC,Southern Bank and Trust Company,309609164
+594,NC,Fifth Third Bank,307232065
+595,NC,Live Oak Banking Company,298460574
+596,NC,Cross River Bank,282858903
+597,NC,Dogwood State Bank,271171938
+598,NC,Customers Bank,250863871
+599,NC,"SouthState Bank, National Association",250290336
+600,NC,"Prestamos CDFI, LLC",167156065
+601,ND,First International Bank & Trust,315907342
+602,ND,Bell Bank,240863173
+603,ND,"Bremer Bank, National Association",213666726
+604,ND,Cornerstone Bank,127922397
+605,ND,Bravera Bank,123874817
+606,ND,"Alerus Financial, National Association",113836100
+607,ND,Choice Financial Group,107165693
+608,ND,First Western Bank & Trust,101413251
+609,ND,Starion Bank,93334894
+610,ND,"Dakota Community Bank & Trust, National Association",79590536
+611,ND,Bank Forward,69211455
+612,ND,BNC National Bank,66864780
+613,ND,Gate City Bank,63163656
+614,ND,Dacotah Bank,63094736
+615,ND,American State Bank & Trust Company of Williston,62829401
+616,ND,First United Bank,41040627
+617,ND,First State Bank & Trust,39957684
+618,ND,United Community Bank of North Dakota,39851808
+619,ND,Unison Bank,35861160
+620,ND,Western State Bank,33427000
+621,NE,First National Bank of Omaha,518990791
+622,NE,Union Bank and Trust Company,404207849
+623,NE,Pinnacle Bank,397238394
+624,NE,American National Bank,260048178
+625,NE,First Interstate Bank,181922637
+626,NE,Five Points Bank,166507453
+627,NE,Security National Bank of Omaha,151835180
+628,NE,Cornerstone Bank,93321591
+629,NE,Access Bank,92733776
+630,NE,Core Bank,91219061
+631,NE,Frontier Bank,77155995
+632,NE,"U.S. Bank, National Association",74343118
+633,NE,Northwest Bank,72058293
+634,NE,Cornhusker Bank,71546353
+635,NE,Midwest Bank,69231148
+636,NE,First State Bank,67738560
+637,NE,Platte Valley Bank,67499744
+638,NE,Arbor Bank,55239184
+639,NE,"Farm Credit Services of America, ACA",54561802
+640,NE,NebraskaLand Bank,54420041
+641,NH,"TD Bank, National Association",500467622
+642,NH,"Citizens Bank, National Association",364126297
+643,NH,Manufacturers and Traders Trust Company,251402499
+644,NH,Eastern Bank,194742211
+645,NH,Enterprise Bank and Trust Company,174677956
+646,NH,Primary Bank,144164711
+647,NH,Bank of New Hampshire,140796019
+648,NH,"Bank of America, National Association",139907253
+649,NH,Merrimack County Savings Bank,113794583
+650,NH,Mascoma Bank,106125230
+651,NH,Northway Bank,95276487
+652,NH,Bar Harbor Bank & Trust,79320388
+653,NH,Meredith Village Savings Bank,74500471
+654,NH,Bangor Savings Bank,71358357
+655,NH,St. Mary's Bank,65418250
+656,NH,BankProv,62532337
+657,NH,Savings Bank of Walpole,52356948
+658,NH,"NBT Bank, National Association",49877739
+659,NH,Pentucket Bank,49546092
+660,NH,Kennebunk Savings Bank,49191296
+661,NJ,"TD Bank, National Association",3161079490
+662,NJ,"PNC Bank, National Association",1940101169
+663,NJ,"Bank of America, National Association",1811578754
+664,NJ,"JPMorgan Chase Bank, National Association",1794608666
+665,NJ,Valley National Bank,1298531458
+666,NJ,"Fulton Bank, National Association",710075652
+667,NJ,Columbia Bank,706024776
+668,NJ,Manufacturers and Traders Trust Company,639280780
+669,NJ,Provident Bank,566103420
+670,NJ,Lakeland Bank,543756717
+671,NJ,Cross River Bank,537519434
+672,NJ,"Wells Fargo Bank, National Association",521264543
+673,NJ,Northeast Bank,510799349
+674,NJ,"OceanFirst Bank, National Association",487755057
+675,NJ,ConnectOne Bank,484337270
+676,NJ,Peapack-Gladstone Bank,473696506
+677,NJ,"Santander Bank, National Association",453799927
+678,NJ,Republic First Bank d/b/a Republic Bank,419814836
+679,NJ,"Citizens Bank, National Association",370684576
+680,NJ,Customers Bank,329354806
+681,NM,First American Bank,226374200
+682,NM,"BOKF, National Association",186872946
+683,NM,New Mexico Bank & Trust,149968014
+684,NM,Century Bank,143300905
+685,NM,"U.S. Bank, National Association",136325030
+686,NM,Enterprise Bank & Trust,120487920
+687,NM,"Wells Fargo Bank, National Association",114448039
+688,NM,Western Commerce Bank,110285075
+689,NM,Bank of the West,104047637
+690,NM,"Bank of America, National Association",103905800
+691,NM,Washington Federal Bank,87933842
+692,NM,Citizens Bank of Las Cruces,86566628
+693,NM,The Citizens Bank,86206818
+694,NM,Four Corners Community Bank,84047221
+695,NM,"Sunflower Bank, National Association",82458680
+696,NM,Nusenda FCU,74493675
+697,NM,Main Bank,74461548
+698,NM,First Source FCU,74172105
+699,NM,Lea County State Bank,67610490
+700,NM,Pioneer Bank,67127503
+701,NV,"Zions Bank, A Division of",850138891
+702,NV,Western Alliance Bank,636137152
+703,NV,"Bank of America, National Association",550320488
+704,NV,"Wells Fargo Bank, National Association",340122393
+705,NV,"U.S. Bank, National Association",326854445
+706,NV,"JPMorgan Chase Bank, National Association",306075547
+707,NV,City National Bank,217722952
+708,NV,Meadows Bank,200789979
+709,NV,Greater Nevada CU,190378036
+710,NV,Cross River Bank,186528218
+711,NV,Glacier Bank,180986875
+712,NV,"Harvest Small Business Finance, LLC",157593914
+713,NV,"Prestamos CDFI, LLC",152517371
+714,NV,Lexicon Bank,151956549
+715,NV,"Capital Plus Financial, LLC",139703939
+716,NV,Bank of the West,123535293
+717,NV,Customers Bank,90750323
+718,NV,Cache Valley Bank,80340308
+719,NV,Umpqua Bank,79017015
+720,NV,GBank,73900050
+721,NY,"JPMorgan Chase Bank, National Association",10793126313
+722,NY,Manufacturers and Traders Trust Company,4998805212
+723,NY,"TD Bank, National Association",3294028940
+724,NY,"Bank of America, National Association",2726955871
+725,NY,KeyBank National Association,2635360078
+726,NY,Signature Bank,2552458522
+727,NY,"Citibank, N.A.",2383895561
+728,NY,Dime Community Bank,1806920785
+729,NY,Cross River Bank,1580856112
+730,NY,"HSBC Bank USA, National Association",967051164
+731,NY,Valley National Bank,904516350
+732,NY,"Capital One, National Association",824876726
+733,NY,Customers Bank,731407599
+734,NY,Webster Bank National Association,716967309
+735,NY,New York Business Development Corporation,665576303
+736,NY,"Citizens Bank, National Association",654523293
+737,NY,"NBT Bank, National Association",639068068
+738,NY,"Harvest Small Business Finance, LLC",626732596
+739,NY,Northeast Bank,592376944
+740,NY,The Canandaigua National Bank and Trust Company,520091596
+741,OH,The Huntington National Bank,4303217193
+742,OH,"PNC Bank, National Association",2797913027
+743,OH,KeyBank National Association,1981875823
+744,OH,Fifth Third Bank,1703917789
+745,OH,"JPMorgan Chase Bank, National Association",1501233787
+746,OH,"U.S. Bank, National Association",651029540
+747,OH,The Park National Bank,580466104
+748,OH,Premier Bank,564851569
+749,OH,First Financial Bank,559638108
+750,OH,Peoples Bank,503032166
+751,OH,"Citizens Bank, National Association",396509685
+752,OH,First National Bank of Pennsylvania,370379997
+753,OH,Civista Bank,365675278
+754,OH,The Farmers National Bank of Canfield,349407487
+755,OH,"Prestamos CDFI, LLC",298167083
+756,OH,"WesBanco Bank, Inc.",290465023
+757,OH,"Signature Bank, National Association",287484530
+758,OH,"Harvest Small Business Finance, LLC",278361512
+759,OH,"Westfield Bank, FSB",273084467
+760,OH,"Capital Plus Financial, LLC",255999874
+761,OK,BancFirst,1060529768
+762,OK,Arvest Bank,597015451
+763,OK,"BOKF, National Association",461852751
+764,OK,MidFirst Bank,355520733
+765,OK,First United Bank and Trust Company,263223287
+766,OK,RCB Bank,185031795
+767,OK,Mabrey Bank,176073132
+768,OK,Prosperity Bank,153861327
+769,OK,Simmons Bank,142945792
+770,OK,Security Bank,140353560
+771,OK,Great Plains National Bank,137748228
+772,OK,First Oklahoma Bank,136331095
+773,OK,Armstrong Bank,133853974
+774,OK,"JPMorgan Chase Bank, National Association",111702786
+775,OK,Regent Bank,100162459
+776,OK,First Fidelity Bank,93343462
+777,OK,CrossFirst Bank,89558950
+778,OK,International Bank of Commerce,85520178
+779,OK,InterBank,84060638
+780,OK,Bank 7,79883847
+781,OR,"U.S. Bank, National Association",1031732126
+782,OR,Umpqua Bank,1020412784
+783,OR,KeyBank National Association,875105100
+784,OR,Columbia State Bank,667582088
+785,OR,First Interstate Bank,423447416
+786,OR,"JPMorgan Chase Bank, National Association",384937193
+787,OR,"Bank of America, National Association",380565334
+788,OR,Banner Bank,310877767
+789,OR,"Wells Fargo Bank, National Association",286923239
+790,OR,Heritage Bank,278326399
+791,OR,Bank of the West,214169127
+792,OR,Washington Federal Bank,188642578
+793,OR,Oregon Pacific Banking Co. d/b/a Oregon Pacific Bank,178199215
+794,OR,Washington Trust Bank,174992165
+795,OR,Summit Bank,169806200
+796,OR,People's Bank of Commerce,165251417
+797,OR,"Zions Bank, A Division of",136153927
+798,OR,OnPoint Community CU,135962890
+799,OR,Citizens Bank,132617174
+800,OR,"Readycap Lending, LLC",131271692
+801,PA,"PNC Bank, National Association",3494929759
+802,PA,First National Bank of Pennsylvania,1934085574
+803,PA,"Citizens Bank, National Association",1604567392
+804,PA,Manufacturers and Traders Trust Company,1430798236
+805,PA,"Fulton Bank, National Association",1379155263
+806,PA,"TD Bank, National Association",1216186647
+807,PA,KeyBank National Association,808230207
+808,PA,Mid Penn Bank,771969958
+809,PA,Truist Bank,756270383
+810,PA,"Wilmington Savings Fund Society, FSB",720051146
+811,PA,Univest Bank and Trust Co.,618087190
+812,PA,S & T Bank,584058224
+813,PA,First Commonwealth Bank,581496113
+814,PA,Orrstown Bank,474524939
+815,PA,The Huntington National Bank,450181156
+816,PA,"Bank of America, National Association",418461934
+817,PA,"Dollar Bank, A Federal Savings Bank",405235808
+818,PA,Customers Bank,386844358
+819,PA,Republic First Bank d/b/a Republic Bank,382279171
+820,PA,Firstrust Savings Bank,356939374
+821,PR,Banco Popular de Puerto Rico,1719008069
+822,PR,FirstBank Puerto Rico,513345593
+823,PR,Oriental Bank,438362263
+824,PR,Banesco USA,35217592
+825,PR,"Cooperativa de Ahorro y Cr<ac,e>dito Dr. Manuel Zeno Gand<ac,i>a",13201720
+826,PR,"Bank of America, National Association",7387473
+827,PR,"Cooperativa de Ahorro y Cr<ac,e>dito de Arecibo (COOPACA)",6324212
+828,PR,"Cooperativa de Ahorro y Cr<ac,e>dito Jes\da\us Obrero",4401810
+829,PR,Mid Penn Bank,3944100
+830,PR,Puerto Rico Farm Credit,2280540
+831,PR,"Cooperativa de Ahorro y Cr<ac,e>dito Oriental",2239248
+832,PR,Live Oak Banking Company,1924630
+833,PR,Cross River Bank,1750959
+834,PR,"Cooperativa de Ahorro y Cr<ac,e>dito de Camuy (CAMUY-COOP)",1717682
+835,PR,City National Bank of Florida,1678416
+836,PR,Pinnacle Bank,1644795
+837,PR,United Community Bank,944988
+838,PR,Greater Nevada CU,885805
+839,PR,"UMB Bank, National Association",738600
+840,PR,Highland Bank,694500
+841,RI,"Citizens Bank, National Association",528035225
+842,RI,Bank Rhode Island,446888157
+843,RI,The Washington Trust Company of Westerly,285525587
+844,RI,"Bank of America, National Association",234220337
+845,RI,BankNewport,180459810
+846,RI,Webster Bank National Association,139466986
+847,RI,Navigant CU,127754382
+848,RI,HarborOne Bank,112810551
+849,RI,Bristol County Savings Bank,86510067
+850,RI,Centreville Bank,68879106
+851,RI,"Santander Bank, National Association",62205357
+852,RI,Rockland Trust Company,61417594
+853,RI,"TD Bank, National Association",50712765
+854,RI,BayCoast Bank,39995467
+855,RI,Coastal1 Credit Union,34941127
+856,RI,Greenwood CU,26561465
+857,RI,"INTRUST Bank, National Association",24409656
+858,RI,Customers Bank,17723484
+859,RI,Berkshire Bank,16931733
+860,RI,"JPMorgan Chase Bank, National Association",16707488
+861,SC,"SouthState Bank, National Association",875070508
+862,SC,First-Citizens Bank & Trust Company,726388542
+863,SC,Truist Bank,642387228
+864,SC,Synovus Bank,496011100
+865,SC,"Bank of America, National Association",384523542
+866,SC,United Community Bank,365439983
+867,SC,"TD Bank, National Association",262592675
+868,SC,Pinnacle Bank,230583762
+869,SC,"Wells Fargo Bank, National Association",201002504
+870,SC,"Prestamos CDFI, LLC",179891040
+871,SC,South Atlantic Bank,139693545
+872,SC,Regions Bank,136213208
+873,SC,Anderson Brothers Bank,133091958
+874,SC,Ameris Bank,123562522
+875,SC,First Horizon Bank,122417344
+876,SC,First Palmetto Bank,112373515
+877,SC,"Capital Plus Financial, LLC",107243770
+878,SC,Security Federal Bank,100518262
+879,SC,United Bank,99787249
+880,SC,Cross River Bank,99459518
+881,SD,First Interstate Bank,290564431
+882,SD,First Dakota National Bank,217679957
+883,SD,Dacotah Bank,207561300
+884,SD,First Bank & Trust,166758608
+885,SD,First PREMIER Bank,145718749
+886,SD,The First National Bank in Sioux Falls,131502334
+887,SD,American Bank & Trust,96442915
+888,SD,"BankWest, Inc",85754251
+889,SD,First National Bank,84097603
+890,SD,Pioneer Bank & Trust,76487557
+891,SD,CorTrust Bank National Association,58725384
+892,SD,"U.S. Bank, National Association",56936643
+893,SD,"Farm Credit Services of America, ACA",55880914
+894,SD,Plains Commerce Bank,55831110
+895,SD,Black Hills FCU,40856425
+896,SD,Central Bank,39144037
+897,SD,Reliabank Dakota,38915577
+898,SD,"Black Hills Community Bank, National Association",38101376
+899,SD,First Fidelity Bank,35705679
+900,SD,Security First Bank,31549930
+901,TN,Pinnacle Bank,1898913127
+902,TN,First Horizon Bank,1534176348
+903,TN,Regions Bank,833542043
+904,TN,Truist Bank,565809353
+905,TN,FirstBank,317502589
+906,TN,SmartBank,293146039
+907,TN,Itria Ventures LLC,266412732
+908,TN,CapStar Bank,251475334
+909,TN,"Bank of America, National Association",247822399
+910,TN,Simmons Bank,229527054
+911,TN,Renasant Bank,215010978
+912,TN,Cadence Bank,175614000
+913,TN,"U.S. Bank, National Association",165828247
+914,TN,"Prestamos CDFI, LLC",164961850
+915,TN,Mountain Commerce Bank,141479298
+916,TN,"Capital Plus Financial, LLC",132424047
+917,TN,Cross River Bank,131317643
+918,TN,Bank of Tennessee,127656257
+919,TN,Wilson Bank & Trust,123825973
+920,TN,United Community Bank,119750082
+921,TX,"JPMorgan Chase Bank, National Association",4290142246
+922,TX,"Bank of America, National Association",2227202454
+923,TX,"Zions Bank, A Division of",1911404963
+924,TX,Prosperity Bank,1812393423
+925,TX,First Source FCU,1752138314
+926,TX,Allegiance Bank,1072862501
+927,TX,"Wells Fargo Bank, National Association",1020086892
+928,TX,Cadence Bank,983086371
+929,TX,Cross River Bank,977578953
+930,TX,"First Financial Bank, National Association",961206143
+931,TX,Comerica Bank,943590058
+932,TX,PlainsCapital Bank,885915955
+933,TX,Simmons Bank,822137858
+934,TX,Texas Capital Bank,785565683
+935,TX,Third Coast Bank SSB,768416205
+936,TX,"BOKF, National Association",731257268
+937,TX,"Prestamos CDFI, LLC",719663136
+938,TX,Independent Bank,663068948
+939,TX,First United Bank and Trust Company,655356532
+940,TX,"Capital Plus Financial, LLC",590190964
+941,UT,"Zions Bank, A Division of",1780413333
+942,UT,Cache Valley Bank,752451062
+943,UT,KeyBank National Association,524673815
+944,UT,Mountain America FCU,413942062
+945,UT,"JPMorgan Chase Bank, National Association",395373242
+946,UT,Bank of Utah,225797995
+947,UT,Glacier Bank,214373163
+948,UT,America First FCU,164517767
+949,UT,"U.S. Bank, National Association",136948318
+950,UT,"Wells Fargo Bank, National Association",136481139
+951,UT,State Bank of Southern Utah,133459140
+952,UT,First Utah Bank,126261333
+953,UT,Cross River Bank,119846646
+954,UT,Goldenwest FCU,119277962
+955,UT,Central Bank,113211396
+956,UT,"Readycap Lending, LLC",109144383
+957,UT,"Community Banks of Colorado, A Division of",109091337
+958,UT,Continental Bank,97407627
+959,UT,Celtic Bank Corporation,73492406
+960,UT,"Bank of America, National Association",68266691
+961,VA,Truist Bank,2244640188
+962,VA,Atlantic Union Bank,1877359829
+963,VA,Towne Bank,1218028327
+964,VA,"Bank of America, National Association",919351365
+965,VA,United Bank,711828081
+966,VA,"Wells Fargo Bank, National Association",457844601
+967,VA,"PNC Bank, National Association",456769711
+968,VA,Manufacturers and Traders Trust Company,351842834
+969,VA,The First Bank and Trust Company,303517436
+970,VA,First-Citizens Bank & Trust Company,302876851
+971,VA,Primis Bank,281405335
+972,VA,Village Bank,253794345
+973,VA,Sandy Spring Bank,248236167
+974,VA,"Blue Ridge Bank, National Association",241109494
+975,VA,American National Bank and Trust Company,227654090
+976,VA,Virginia National Bank,204934619
+977,VA,Cross River Bank,198957954
+978,VA,MainStreet Bank,187954025
+979,VA,Burke & Herbert Bank & Trust Company,185928678
+980,VA,John Marshall Bank,184086416
+981,VI,FirstBank Puerto Rico,49411909
+982,VI,Banco Popular de Puerto Rico,43789575
+983,VI,"United Fidelity Bank, FSB",36129227
+984,VI,Merchants Commercial Bank,30563499
+985,VI,Greater Nevada CU,12240467
+986,VI,Oriental Bank,12027054
+987,VI,"Bank of America, National Association",2351956
+988,VI,Fountainhead SBF LLC,1183943
+989,VI,Valley National Bank,1182659
+990,VI,1st Source Bank,1010100
+991,VI,"TransPecos Banks, SSB.",988400
+992,VI,Cross River Bank,892879
+993,VI,United Bank,821229
+994,VI,Wallis Bank,779400
+995,VI,Celtic Bank Corporation,749033
+996,VI,"American Bank & Trust Company, Inc.",511841
+997,VI,The Economic Development Bank for the United States Virgin Islands,493322
+998,VI,Truist Bank,483623
+999,VI,Byline Bank,477637
+1000,VI,KeyBank National Association,393064
+1001,VT,Manufacturers and Traders Trust Company,342918646
+1002,VT,"TD Bank, National Association",193359354
+1003,VT,Community National Bank,149960199
+1004,VT,Northfield Savings Bank,139636326
+1005,VT,"Community Bank, National Association",108243814
+1006,VT,Mascoma Bank,86007193
+1007,VT,Union Bank,83848006
+1008,VT,KeyBank National Association,61586335
+1009,VT,"Citizens Bank, National Association",47863908
+1010,VT,The Bank of Bennington,40946579
+1011,VT,Vermont 504 Corporation,38721422
+1012,VT,National Bank of Middlebury,37628364
+1013,VT,Passumpsic Savings Bank,31347310
+1014,VT,"NBT Bank, National Association",30145341
+1015,VT,The Brattleboro Savings & Loan Association,29710223
+1016,VT,Peoples Trust Company of St. Albans,27394306
+1017,VT,Heritage Family FCU,23381575
+1018,VT,Vermont State Empl CU,22538272
+1019,VT,Bar Harbor Bank & Trust,22299352
+1020,VT,Berkshire Bank,19094863
+1021,WA,KeyBank National Association,1407309103
+1022,WA,"Bank of America, National Association",1382871318
+1023,WA,Washington Trust Bank,1271820101
+1024,WA,"U.S. Bank, National Association",1081832072
+1025,WA,Heritage Bank,986211896
+1026,WA,Banner Bank,888286490
+1027,WA,Columbia State Bank,775197006
+1028,WA,"JPMorgan Chase Bank, National Association",751434839
+1029,WA,Coastal Community Bank,656439329
+1030,WA,Umpqua Bank,646034565
+1031,WA,Washington Federal Bank,539894959
+1032,WA,"Zions Bank, A Division of",400273789
+1033,WA,"Wells Fargo Bank, National Association",360594093
+1034,WA,Peoples Bank,347652576
+1035,WA,HomeStreet Bank,270147520
+1036,WA,Cross River Bank,232667891
+1037,WA,Timberland Bank,189937549
+1038,WA,"Readycap Lending, LLC",180202248
+1039,WA,Glacier Bank,167284670
+1040,WA,Boeing Empl CU,164608452
+1041,WI,BMO Harris Bank National Association,1555223922
+1042,WI,"Associated Bank, National Association",886900858
+1043,WI,Nicolet National Bank,696882928
+1044,WI,Johnson Bank,674697482
+1045,WI,"JPMorgan Chase Bank, National Association",527585806
+1046,WI,"Bank First, N.A.",429631562
+1047,WI,"U.S. Bank, National Association",406311593
+1048,WI,First Business Bank,355231361
+1049,WI,Old National Bank,335156488
+1050,WI,"Town Bank, National Association",306614678
+1051,WI,Waukesha State Bank,220641170
+1052,WI,Peoples State Bank,201493002
+1053,WI,"Bremer Bank, National Association",191593747
+1054,WI,"PNC Bank, National Association",179586756
+1055,WI,National Exchange Bank and Trust,152207570
+1056,WI,The Park Bank,150280483
+1057,WI,State Bank of Cross Plains,149299536
+1058,WI,Citizens Community Federal National Association,146467473
+1059,WI,IncredibleBank,141154670
+1060,WI,One Community Bank,133297844
+1061,WV,United Bank,422681911
+1062,WV,"WesBanco Bank, Inc.",267401986
+1063,WV,Truist Bank,243994012
+1064,WV,Peoples Bank,201079608
+1065,WV,The Huntington National Bank,177733243
+1066,WV,City National Bank of West Virginia,84037921
+1067,WV,"Summit Community Bank, Inc.",80969820
+1068,WV,"JPMorgan Chase Bank, National Association",68814804
+1069,WV,First United Bank & Trust,56674347
+1070,WV,First Community Bank,52680626
+1071,WV,"Clear Mountain Bank, Inc.",52469777
+1072,WV,"MVB Bank, Inc.",49035228
+1073,WV,"PNC Bank, National Association",33867594
+1074,WV,"The Poca Valley Bank, Inc.",33848856
+1075,WV,"Pendleton Community Bank, Inc.",33240756
+1076,WV,"Community Trust Bank, Inc.",28417100
+1077,WV,"Citizens Bank of West Virginia, Inc",27933916
+1078,WV,Main Street Bank Corp.,24573693
+1079,WV,Logan Bank & Trust Company,23910163
+1080,WV,Fifth Third Bank,23229570
+1081,WY,First Interstate Bank,275079044
+1082,WY,Glacier Bank,145189287
+1083,WY,Jonah Bank of Wyoming,80434789
+1084,WY,Pinnacle Bank-Wyoming,78962854
+1085,WY,First National Bank of Gillette,78526658
+1086,WY,Bank of Jackson Hole,78192282
+1087,WY,Hilltop National Bank,67475316
+1088,WY,ANB Bank,54976882
+1089,WY,Platte Valley Bank,45521535
+1090,WY,The Converse County Bank,42928123
+1091,WY,First Northern Bank of Wyoming,40593914
+1092,WY,First Western Trust Bank,34798479
+1093,WY,Security State Bank,33073184
+1094,WY,NebraskaLand Bank,29246809
+1095,WY,Central Bank & Trust,28871136
+1096,WY,RSNB Bank,28585463
+1097,WY,First Federal Bank & Trust,23556290
+1098,WY,First National Bank of Omaha,21072372
+1099,WY,"U.S. Bank, National Association",20812755
+1100,WY,Wyoming Community Bank,18739689
