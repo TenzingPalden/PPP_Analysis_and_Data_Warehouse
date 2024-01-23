@@ -33,13 +33,24 @@ Below are the top 20 lenders for the states of NY and NJ, my current home state 
 
 <img width="500" alt="image" src="https://github.com/TenzingPalden/PPP_Analysis_and_Data_Warehouse/assets/85039775/c92c7cbd-9231-40d9-af3d-2d9c7cf7352d">
 
-an important part of getting the aggregation done was making a states list to organize
-```python
-state_list = [ "AE", 'AK', 'AL', 'AR', 'AZ', 'CA', 'CO', 'CT', 'DC', 'DE', 'FL', 'GA',
-           'HI', 'IA', 'ID', 'IL', 'IN', 'KS', 'KY', 'LA', 'MA', 'MD', 'ME',
-           'MI', 'MN', 'MO', 'MS', 'MT', 'NC', 'ND', 'NE', 'NH', 'NJ', 'NM',
-           'NV', 'NY', 'OH', 'OK', 'OR', 'PA', 'RI', 'SC', 'SD', 'TN', 'TX',
-           'UT', 'VA', 'VT', 'WA', 'WI', 'WV', 'WY']
+Loaded the data into Talend to create these graphs to compare the PPP loans between states.
 
-```
-<img width="500" alt="image" src=" ">
+<img width="500" alt="image" src="https://github.com/TenzingPalden/PPP_Analysis_and_Data_Warehouse/assets/85039775/008ddea7-5f08-42bb-aff1-20d9fed88794">
+
+<img width="1020" alt="Screenshot 2024-01-23 at 3 13 07 PM" src="https://github.com/TenzingPalden/PPP_Analysis_and_Data_Warehouse/assets/85039775/b905f85b-cf58-41e3-8956-30f5f19e8f59">
+
+# Conclusion and Insights drawn from this project
+This project taught me a lot about how to organize data values within a Data warehouse. It also allowed me to experiment with Google Query and AWS RedShift. I learned the process of how to integrate Data within these servers. Some insights that can be drawn from this is as follows: 
+
+-JP Morgan, Bank of America and PNC Bank were the top 3 leading lenders during the pandemic in nation. 
+
+-California, New York and Florida were the states that received the most aid. 
+
+-An interesting fact is that some army bases around the world received PPP loans
+
+-The lowest amount of loans in the top 20 were given by BMO Harris Bank National Association, Capital Plus Financial, LLC, and Customers Bank.
+
+# Future Work
+
+In the future, I would like to continue this project by finding more insights about the data that was warehoused. Also making a dashboard with the data would be useful when trying to aggregate these old data points. 
+
