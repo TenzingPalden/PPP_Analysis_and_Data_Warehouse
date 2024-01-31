@@ -1,4 +1,4 @@
-# PPP_Analysis_and-Data-Warehouse
+# PPP Loan Analysis and Data Warehousing with Python, Google BigQuery, and Talend
 
  &emsp; This project cannot be fully shown in Git Hub as it requires access to Google Big Query. What can be shown is the analysis that was done on the data and the cleaning and processing part.
 The Paycheck Protection Program (PPP) is a federal loan program designed to assist businesses affected by the COVID-19 pandemic. 
